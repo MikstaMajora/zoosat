@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PRODUCTS>
+  <PRODUCT>
+    <CODED>44257</CODED>
+    <IMAGES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/44257/001.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/44257/preview.jpg</OPTION>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>42269</CODED>
+    <IMAGES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/42269/001.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/42269/preview.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/42269/002.jpg</OPTION>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>42270</CODED>
+    <IMAGES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/42270/001.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/42270/preview.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/42270/002.jpg</OPTION>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>44427</CODED>
+    <IMAGES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/44427/001.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/44427/003.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/44427/004.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/44427/preview.jpg</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/images_zoosat/imagesnew/44427/002.jpg</OPTION>
+    </IMAGES>
+  </PRODUCT>
+</PRODUCTS>

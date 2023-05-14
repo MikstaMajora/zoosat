@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/main.mail.unsubscribe/templates/.default/script.js" => "1617599349858",]; ?>

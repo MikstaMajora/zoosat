@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_next/components/bitrix/catalog/new_manufacturers/style.css" => "16225144066343",]; ?>

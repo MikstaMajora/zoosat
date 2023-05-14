@@ -1,0 +1,498 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680920284';
+$dateexpire = '001684520284';
+$ser_content = 'a:2:{s:7:"CONTENT";s:27583:"	
+					<div class="top_wrapper row margin0 show_un_props">
+			<div class="catalog_block items block_list">
+								<div class="item_block col-4 col-md-3 col-sm-6 col-xs-6">
+
+                <div class="catalog_item_wrapp item" >
+
+					<div class="basket_props_block" id="bx_basket_div_21406" >
+											</div>
+										<div class="catalog_item main_item_wrapper item_wrap " id="bx_3966226736_21406">
+						<div>
+
+							
+
+							<div class="image_wrapper_block">
+
+								<div class="stickers">
+																																			</div>
+
+                                <div class = "stickers_zavodchik_block">
+                                    <!-- Иконка для заводчиков -->
+                                                                    </div>
+
+
+																	<div class="like_icons">
+																																	<div class="wish_item_button" >
+													<span title="Отложить" class="wish_item to" data-item="21406" data-iblock="28"><i></i></span>
+													<span title="В отложенных" class="wish_item in added" style="display: none;" data-item="21406" data-iblock="28"><i></i></span>
+												</div>
+																															
+																													</div>
+																																													<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21406/" class="thumb shine">
+									
+																	<img class="img-responsive " src="/upload/iblock/4fc/69rb9uc751xdv88waaxiz8yzpffbbhs4.jpg" alt="РИКАРФА 50 мг, 20 табл." title="РИКАРФА 50 мг, 20 табл." />
+																		</a>
+													<div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="28" data-param-id="21406" data-param-fid="" data-param-item_href="%2Fcatalogzoo%2Fpreparaty_dlya_mdzh%2Fterapiya_mdzh%2Fnpvs_mdzh%2F21406%2F" data-name="fast_view">Быстрый просмотр</div>
+																												</div>
+							<div class="item_info TYPE_1">
+								<div class="item-title">
+									<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21406/" class="dark_link"><span>РИКАРФА 50 мг, 20 табл.</span></a>
+								</div>
+																<div class="sa_block" data-stores=\'null\'>
+									<div class="item-stock  js-show-stores js-show-info-block  " data-id="21406" ><span class="icon stock stock_range_3"></span><span class="value">Есть в наличии (446)</span></div>									<div class="article_block" >
+																			</div>
+								</div>
+								<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="690">
+										<span><span class="values_wrapper"><span class="price_value">690</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+																																									</div>
+																																																					
+
+
+                                <div class="code_block_section">
+                                                                            Код товара:&nbsp 30657                                                                          </div>
+
+
+
+							</div>
+
+							<div class="footer_button  inner_content js_offers__21406">
+								<div class="sku_props">
+																	</div>
+																	<div class="counter_wrapp ">
+																					<div class="counter_block" data-offers="N" data-item="21406">
+												<span class="minus" id="bx_3966226736_21406_quant_down">-</span>
+												<input type="text" class="text" id="bx_3966226736_21406_quantity" name="quantity" value="1" />
+												<span class="plus" id="bx_3966226736_21406_quant_up" data-max=\'446\'>+</span>
+											</div>
+																				<div id="bx_3966226736_21406_basket_actions" class="button_block ">
+											<!--noindex-->
+												<span data-value="690" data-currency="RUB" data-rid="" class="small to-cart btn btn-default transition_bg animate-load" data-item="21406" data-float_ratio="" data-ratio="1" data-bakset_div="bx_basket_div_21406" data-props="" data-part_props="N" data-add_props="Y"  data-empty_props="Y" data-offers="" data-iblockID="28"  data-quantity="1"><i></i><span>В корзину</span></span><a rel="nofollow" href="/basket/" class="small in-cart btn btn-default transition_bg" data-item="21406"  style="display:none;"><i></i><span>В корзине</span></a>											<!--/noindex-->
+										</div>
+									</div>
+																																											</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="item_block col-4 col-md-3 col-sm-6 col-xs-6">
+
+                <div class="catalog_item_wrapp item" >
+
+					<div class="basket_props_block" id="bx_basket_div_21385" >
+											</div>
+										<div class="catalog_item main_item_wrapper item_wrap " id="bx_3966226736_21385">
+						<div>
+
+							
+
+							<div class="image_wrapper_block">
+
+								<div class="stickers">
+																																			</div>
+
+                                <div class = "stickers_zavodchik_block">
+                                    <!-- Иконка для заводчиков -->
+                                                                    </div>
+
+
+																	<div class="like_icons">
+																																	<div class="wish_item_button" >
+													<span title="Отложить" class="wish_item to" data-item="21385" data-iblock="28"><i></i></span>
+													<span title="В отложенных" class="wish_item in added" style="display: none;" data-item="21385" data-iblock="28"><i></i></span>
+												</div>
+																															
+																													</div>
+																																													<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21385/" class="thumb shine">
+									
+																	<img class="img-responsive " src="/upload/iblock/e98/b39hnc71m0nfeac2ozwe7cod8z7gq8c0.jpg" alt="РИМАДИЛ 5%, 20 мл." title="РИМАДИЛ 5%, 20 мл." />
+																		</a>
+													<div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="28" data-param-id="21385" data-param-fid="" data-param-item_href="%2Fcatalogzoo%2Fpreparaty_dlya_mdzh%2Fterapiya_mdzh%2Fnpvs_mdzh%2F21385%2F" data-name="fast_view">Быстрый просмотр</div>
+																												</div>
+							<div class="item_info TYPE_1">
+								<div class="item-title">
+									<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21385/" class="dark_link"><span>РИМАДИЛ 5%, 20 мл.</span></a>
+								</div>
+																<div class="sa_block" data-stores=\'null\'>
+									<div class="item-stock  js-show-stores js-show-info-block  " data-id="21385" ><span class="icon stock stock_range_3"></span><span class="value">Есть в наличии (66)</span></div>									<div class="article_block" >
+																			</div>
+								</div>
+								<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="2790">
+										<span><span class="values_wrapper"><span class="price_value">2&nbsp;790</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+																																									</div>
+																																																					
+
+
+                                <div class="code_block_section">
+                                                                            Код товара:&nbsp 30626                                                                          </div>
+
+
+
+							</div>
+
+							<div class="footer_button  inner_content js_offers__21385">
+								<div class="sku_props">
+																	</div>
+																	<div class="counter_wrapp ">
+																					<div class="counter_block" data-offers="N" data-item="21385">
+												<span class="minus" id="bx_3966226736_21385_quant_down">-</span>
+												<input type="text" class="text" id="bx_3966226736_21385_quantity" name="quantity" value="1" />
+												<span class="plus" id="bx_3966226736_21385_quant_up" data-max=\'66\'>+</span>
+											</div>
+																				<div id="bx_3966226736_21385_basket_actions" class="button_block ">
+											<!--noindex-->
+												<span data-value="2790" data-currency="RUB" data-rid="" class="small to-cart btn btn-default transition_bg animate-load" data-item="21385" data-float_ratio="" data-ratio="1" data-bakset_div="bx_basket_div_21385" data-props="" data-part_props="N" data-add_props="Y"  data-empty_props="Y" data-offers="" data-iblockID="28"  data-quantity="1"><i></i><span>В корзину</span></span><a rel="nofollow" href="/basket/" class="small in-cart btn btn-default transition_bg" data-item="21385"  style="display:none;"><i></i><span>В корзине</span></a>											<!--/noindex-->
+										</div>
+									</div>
+																																											</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="item_block col-4 col-md-3 col-sm-6 col-xs-6">
+
+                <div class="catalog_item_wrapp item" >
+
+					<div class="basket_props_block" id="bx_basket_div_21405" >
+											</div>
+										<div class="catalog_item main_item_wrapper item_wrap " id="bx_3966226736_21405">
+						<div>
+
+							
+
+							<div class="image_wrapper_block">
+
+								<div class="stickers">
+																																			</div>
+
+                                <div class = "stickers_zavodchik_block">
+                                    <!-- Иконка для заводчиков -->
+                                                                    </div>
+
+
+																	<div class="like_icons">
+																																	<div class="wish_item_button" >
+													<span title="Отложить" class="wish_item to" data-item="21405" data-iblock="28"><i></i></span>
+													<span title="В отложенных" class="wish_item in added" style="display: none;" data-item="21405" data-iblock="28"><i></i></span>
+												</div>
+																															
+																													</div>
+																																													<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21405/" class="thumb shine">
+									
+																	<img class="img-responsive " src="/upload/iblock/8d4/6rfkk17muc0xt1yihky47ehy3rpsg8h4.jpg" alt="РИКАРФА 20 мг, 20 табл." title="РИКАРФА 20 мг, 20 табл." />
+																		</a>
+													<div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="28" data-param-id="21405" data-param-fid="" data-param-item_href="%2Fcatalogzoo%2Fpreparaty_dlya_mdzh%2Fterapiya_mdzh%2Fnpvs_mdzh%2F21405%2F" data-name="fast_view">Быстрый просмотр</div>
+																												</div>
+							<div class="item_info TYPE_1">
+								<div class="item-title">
+									<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21405/" class="dark_link"><span>РИКАРФА 20 мг, 20 табл.</span></a>
+								</div>
+																<div class="sa_block" data-stores=\'null\'>
+									<div class="item-stock  js-show-stores js-show-info-block  " data-id="21405" ><span class="icon stock stock_range_3"></span><span class="value">Есть в наличии (445)</span></div>									<div class="article_block" >
+																			</div>
+								</div>
+								<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="600">
+										<span><span class="values_wrapper"><span class="price_value">600</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+																																									</div>
+																																																					
+
+
+                                <div class="code_block_section">
+                                                                            Код товара:&nbsp 30656                                                                          </div>
+
+
+
+							</div>
+
+							<div class="footer_button  inner_content js_offers__21405">
+								<div class="sku_props">
+																	</div>
+																	<div class="counter_wrapp ">
+																					<div class="counter_block" data-offers="N" data-item="21405">
+												<span class="minus" id="bx_3966226736_21405_quant_down">-</span>
+												<input type="text" class="text" id="bx_3966226736_21405_quantity" name="quantity" value="1" />
+												<span class="plus" id="bx_3966226736_21405_quant_up" data-max=\'445\'>+</span>
+											</div>
+																				<div id="bx_3966226736_21405_basket_actions" class="button_block ">
+											<!--noindex-->
+												<span data-value="600" data-currency="RUB" data-rid="" class="small to-cart btn btn-default transition_bg animate-load" data-item="21405" data-float_ratio="" data-ratio="1" data-bakset_div="bx_basket_div_21405" data-props="" data-part_props="N" data-add_props="Y"  data-empty_props="Y" data-offers="" data-iblockID="28"  data-quantity="1"><i></i><span>В корзину</span></span><a rel="nofollow" href="/basket/" class="small in-cart btn btn-default transition_bg" data-item="21405"  style="display:none;"><i></i><span>В корзине</span></a>											<!--/noindex-->
+										</div>
+									</div>
+																																											</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="item_block col-4 col-md-3 col-sm-6 col-xs-6">
+
+                <div class="catalog_item_wrapp item" >
+
+					<div class="basket_props_block" id="bx_basket_div_18333" >
+											</div>
+										<div class="catalog_item main_item_wrapper item_wrap " id="bx_3966226736_18333">
+						<div>
+
+							
+
+							<div class="image_wrapper_block">
+
+								<div class="stickers">
+																																			</div>
+
+                                <div class = "stickers_zavodchik_block">
+                                    <!-- Иконка для заводчиков -->
+                                                                    </div>
+
+
+																	<div class="like_icons">
+																																	<div class="wish_item_button" >
+													<span title="Отложить" class="wish_item to" data-item="18333" data-iblock="28"><i></i></span>
+													<span title="В отложенных" class="wish_item in added" style="display: none;" data-item="18333" data-iblock="28"><i></i></span>
+												</div>
+																															
+																													</div>
+																																													<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/18333/" class="thumb shine">
+									
+																	<img class="img-responsive " src="/upload/iblock/cbd/qg5145wc1qaii1buz1gss1x9idubcu74.jpg" alt="РИКАРФА, 20 мл." title="РИКАРФА, 20 мл." />
+																		</a>
+													<div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="28" data-param-id="18333" data-param-fid="" data-param-item_href="%2Fcatalogzoo%2Fpreparaty_dlya_mdzh%2Fterapiya_mdzh%2Fnpvs_mdzh%2F18333%2F" data-name="fast_view">Быстрый просмотр</div>
+																												</div>
+							<div class="item_info TYPE_1">
+								<div class="item-title">
+									<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/18333/" class="dark_link"><span>РИКАРФА, 20 мл.</span></a>
+								</div>
+																<div class="sa_block" data-stores=\'null\'>
+									<div class="item-stock  js-show-stores js-show-info-block  " data-id="18333" ><span class="icon stock stock_range_3"></span><span class="value">Есть в наличии (243)</span></div>									<div class="article_block" >
+																			</div>
+								</div>
+								<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="3020">
+										<span><span class="values_wrapper"><span class="price_value">3&nbsp;020</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+																																									</div>
+																																																					
+
+
+                                <div class="code_block_section">
+                                                                            Код товара:&nbsp 33013                                                                          </div>
+
+
+
+							</div>
+
+							<div class="footer_button  inner_content js_offers__18333">
+								<div class="sku_props">
+																	</div>
+																	<div class="counter_wrapp ">
+																					<div class="counter_block" data-offers="N" data-item="18333">
+												<span class="minus" id="bx_3966226736_18333_quant_down">-</span>
+												<input type="text" class="text" id="bx_3966226736_18333_quantity" name="quantity" value="1" />
+												<span class="plus" id="bx_3966226736_18333_quant_up" data-max=\'243\'>+</span>
+											</div>
+																				<div id="bx_3966226736_18333_basket_actions" class="button_block ">
+											<!--noindex-->
+												<span data-value="3020" data-currency="RUB" data-rid="" class="small to-cart btn btn-default transition_bg animate-load" data-item="18333" data-float_ratio="" data-ratio="1" data-bakset_div="bx_basket_div_18333" data-props="" data-part_props="N" data-add_props="Y"  data-empty_props="Y" data-offers="" data-iblockID="28"  data-quantity="1"><i></i><span>В корзину</span></span><a rel="nofollow" href="/basket/" class="small in-cart btn btn-default transition_bg" data-item="18333"  style="display:none;"><i></i><span>В корзине</span></a>											<!--/noindex-->
+										</div>
+									</div>
+																																											</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="item_block col-4 col-md-3 col-sm-6 col-xs-6">
+
+                <div class="catalog_item_wrapp item" >
+
+					<div class="basket_props_block" id="bx_basket_div_22852" >
+											</div>
+										<div class="catalog_item main_item_wrapper item_wrap " id="bx_3966226736_22852">
+						<div>
+
+							
+
+							<div class="image_wrapper_block">
+
+								<div class="stickers">
+																																			</div>
+
+                                <div class = "stickers_zavodchik_block">
+                                    <!-- Иконка для заводчиков -->
+                                                                    </div>
+
+
+																	<div class="like_icons">
+																																	<div class="wish_item_button" >
+													<span title="Отложить" class="wish_item to" data-item="22852" data-iblock="28"><i></i></span>
+													<span title="В отложенных" class="wish_item in added" style="display: none;" data-item="22852" data-iblock="28"><i></i></span>
+												</div>
+																															
+																													</div>
+																																													<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/22852/" class="thumb shine">
+									
+																	<img class="img-responsive " src="/upload/iblock/2c2/o45uw1od65wlvy4n5hakosfa2xbzrp7i.jpg" alt="РИКАРФА 100 мг, 20 табл." title="РИКАРФА 100 мг, 20 табл." />
+																		</a>
+													<div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="28" data-param-id="22852" data-param-fid="" data-param-item_href="%2Fcatalogzoo%2Fpreparaty_dlya_mdzh%2Fterapiya_mdzh%2Fnpvs_mdzh%2F22852%2F" data-name="fast_view">Быстрый просмотр</div>
+																												</div>
+							<div class="item_info TYPE_1">
+								<div class="item-title">
+									<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/22852/" class="dark_link"><span>РИКАРФА 100 мг, 20 табл.</span></a>
+								</div>
+																<div class="sa_block" data-stores=\'null\'>
+									<div class="item-stock  js-show-stores js-show-info-block  " data-id="22852" ><span class="icon stock stock_range_3"></span><span class="value">Есть в наличии (116)</span></div>									<div class="article_block" >
+																			</div>
+								</div>
+								<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="1050">
+										<span><span class="values_wrapper"><span class="price_value">1&nbsp;050</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+																																									</div>
+																																																					
+
+
+                                <div class="code_block_section">
+                                                                            Код товара:&nbsp 39701                                                                          </div>
+
+
+
+							</div>
+
+							<div class="footer_button  inner_content js_offers__22852">
+								<div class="sku_props">
+																	</div>
+																	<div class="counter_wrapp ">
+																					<div class="counter_block" data-offers="N" data-item="22852">
+												<span class="minus" id="bx_3966226736_22852_quant_down">-</span>
+												<input type="text" class="text" id="bx_3966226736_22852_quantity" name="quantity" value="1" />
+												<span class="plus" id="bx_3966226736_22852_quant_up" data-max=\'116\'>+</span>
+											</div>
+																				<div id="bx_3966226736_22852_basket_actions" class="button_block ">
+											<!--noindex-->
+												<span data-value="1050" data-currency="RUB" data-rid="" class="small to-cart btn btn-default transition_bg animate-load" data-item="22852" data-float_ratio="" data-ratio="1" data-bakset_div="bx_basket_div_22852" data-props="" data-part_props="N" data-add_props="Y"  data-empty_props="Y" data-offers="" data-iblockID="28"  data-quantity="1"><i></i><span>В корзину</span></span><a rel="nofollow" href="/basket/" class="small in-cart btn btn-default transition_bg" data-item="22852"  style="display:none;"><i></i><span>В корзине</span></a>											<!--/noindex-->
+										</div>
+									</div>
+																																											</div>
+						</div>
+					</div>
+				</div>
+			</div>
+					<div class="item_block col-4 col-md-3 col-sm-6 col-xs-6">
+
+                <div class="catalog_item_wrapp item" >
+
+					<div class="basket_props_block" id="bx_basket_div_21416" >
+											</div>
+										<div class="catalog_item main_item_wrapper item_wrap " id="bx_3966226736_21416">
+						<div>
+
+							
+
+							<div class="image_wrapper_block">
+
+								<div class="stickers">
+																																			</div>
+
+                                <div class = "stickers_zavodchik_block">
+                                    <!-- Иконка для заводчиков -->
+                                                                    </div>
+
+
+																	<div class="like_icons">
+																																	<div class="wish_item_button" style="display:none">
+													<span title="Отложить" class="wish_item to" data-item="21416" data-iblock="28"><i></i></span>
+													<span title="В отложенных" class="wish_item in added" style="display: none;" data-item="21416" data-iblock="28"><i></i></span>
+												</div>
+																															
+																													</div>
+																																													<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21416/" class="thumb shine">
+									
+																	<img class="img-responsive " src="/upload/iblock/78a/uo9u01f3cz9nbmh9yollxaj7bak39lxv.jpg" alt="РИМАДИЛ Р 100 мг, 20 табл." title="РИМАДИЛ Р 100 мг, 20 табл." />
+																		</a>
+													<div class="fast_view_block" data-event="jqm" data-param-form_id="fast_view" data-param-iblock_id="28" data-param-id="21416" data-param-fid="" data-param-item_href="%2Fcatalogzoo%2Fpreparaty_dlya_mdzh%2Fterapiya_mdzh%2Fnpvs_mdzh%2F21416%2F" data-name="fast_view">Быстрый просмотр</div>
+																												</div>
+							<div class="item_info TYPE_1">
+								<div class="item-title">
+									<a href="/catalogzoo/preparaty_dlya_mdzh/terapiya_mdzh/npvs_mdzh/21416/" class="dark_link"><span>РИМАДИЛ Р 100 мг, 20 табл.</span></a>
+								</div>
+																<div class="sa_block" data-stores=\'null\'>
+									<div class="item-stock  js-show-stores js-show-info-block  " data-id="21416" ><span class="icon  order"></span><span class="value">Нет в наличии</span></div>									<div class="article_block" >
+																			</div>
+								</div>
+								<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="1160">
+										<span><span class="values_wrapper"><span class="price_value">1&nbsp;160</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+																																									</div>
+																																																					
+
+
+                                <div class="code_block_section">
+                                                                            Код товара:&nbsp 30688                                                                          </div>
+
+
+
+							</div>
+
+							<div class="footer_button  inner_content js_offers__21416">
+								<div class="sku_props">
+																	</div>
+																	<div class="counter_wrapp ">
+																				<div id="bx_3966226736_21416_basket_actions" class="button_block wide">
+											<!--noindex-->
+																							<!--/noindex-->
+										</div>
+									</div>
+																																											</div>
+						</div>
+					</div>
+				</div>
+			</div>
+						</div>
+		</div>
+			<div class="bottom_nav block" >
+			</div>
+	
+<script>
+	BX.message({
+		QUANTITY_AVAILIABLE: \'Есть в наличии\',
+		QUANTITY_NOT_AVAILIABLE: \'Нет в наличии\',
+		ADD_ERROR_BASKET: \'Ошибка добавления товара в корзину\',
+		ADD_ERROR_COMPARE: \'Ошибка добавления товара в список сравнения\',
+	})
+	sliceItemBlock();
+</script>";s:4:"VARS";a:2:{s:8:"arResult";a:6:{s:2:"ID";i:0;s:15:"NAV_CACHED_DATA";N;s:10:"NAV_STRING";s:0:"";s:16:"IPROPERTY_VALUES";a:0:{}s:16:"BACKGROUND_IMAGE";b:0;s:19:"USE_CATALOG_BUTTONS";a:1:{s:11:"add_product";b:1;}}s:18:"templateCachedData";a:6:{s:12:"additionalJS";s:93:"/bitrix/templates/aspro_next/components/bitrix/catalog.section/catalog_block_zoosat/script.js";s:9:"frameMode";b:1;s:16:"component_epilog";a:5:{s:10:"epilogFile";s:104:"/bitrix/templates/aspro_next/components/bitrix/catalog.section/catalog_block_zoosat/component_epilog.php";s:12:"templateName";s:20:"catalog_block_zoosat";s:12:"templateFile";s:96:"/bitrix/templates/aspro_next/components/bitrix/catalog.section/catalog_block_zoosat/template.php";s:14:"templateFolder";s:83:"/bitrix/templates/aspro_next/components/bitrix/catalog.section/catalog_block_zoosat";s:12:"templateData";a:2:{s:16:"TEMPLATE_LIBRARY";a:1:{i:0;s:8:"currency";}s:10:"CURRENCIES";s:153:"[{\'CURRENCY\':\'RUB\',\'FORMAT\':{\'FORMAT_STRING\':\'# &#8381;\',\'DEC_POINT\':\'.\',\'THOUSANDS_SEP\':\'&nbsp;\',\'DECIMALS\':2,\'THOUSANDS_VARIANT\':\'B\',\'HIDE_ZERO\':\'Y\'}}]";}}s:8:"__NavNum";i:1;s:17:"__currentCounters";a:1:{s:28:"bitrix:system.pagenavigation";i:1;}s:13:"__editButtons";a:12:{i:0;a:5:{i:0;s:13:"AddEditAction";i:1;i:21406;i:2;N;i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:1;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:21406;i:2;N;i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:2;a:5:{i:0;s:13:"AddEditAction";i:1;i:21385;i:2;N;i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:3;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:21385;i:2;N;i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:4;a:5:{i:0;s:13:"AddEditAction";i:1;i:21405;i:2;N;i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:5;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:21405;i:2;N;i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:6;a:5:{i:0;s:13:"AddEditAction";i:1;i:18333;i:2;N;i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:7;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:18333;i:2;N;i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:8;a:5:{i:0;s:13:"AddEditAction";i:1;i:22852;i:2;N;i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:9;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:22852;i:2;N;i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}i:10;a:5:{i:0;s:13:"AddEditAction";i:1;i:21416;i:2;N;i:3;s:31:"Изменить элемент";i:4;a:0:{}}i:11;a:5:{i:0;s:15:"AddDeleteAction";i:1;i:21416;i:2;N;i:3;s:29:"Удалить элемент";i:4;a:1:{s:7:"CONFIRM";s:123:"Будет удалена вся информация, связанная с этой записью. Продолжить?";}}}}}}';
+return true;
+?>

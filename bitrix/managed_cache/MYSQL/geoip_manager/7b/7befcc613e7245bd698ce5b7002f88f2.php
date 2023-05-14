@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680228867';
+$dateexpire = '001680833667';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:18:"205.134.180.169/32";a:1:{s:2:"ru";a:14:{s:2:"ip";s:15:"205.134.180.169";s:4:"lang";s:2:"ru";s:11:"countryName";s:6:"США";s:10:"regionName";s:16:"Мэриленд";s:8:"cityName";s:16:"Балтимор";s:11:"countryCode";s:2:"US";s:10:"regionCode";s:5:"US-MD";s:13:"cityGeonameId";i:4347778;s:15:"regionGeonameId";i:4361885;s:8:"geonames";a:2:{i:4361885;a:1:{s:2:"ru";s:16:"Мэриленд";}i:4347778;a:1:{s:2:"ru";s:16:"Балтимор";}}s:8:"latitude";d:39.290379999999999;s:9:"longitude";d:-76.612189999999998;s:8:"timezone";s:16:"America/New_York";s:12:"handlerClass";s:35:"\\Bitrix\\Main\\Service\\GeoIp\\SypexGeo";}}s:18:"205.134.180.143/32";a:1:{s:2:"ru";a:14:{s:2:"ip";s:15:"205.134.180.143";s:4:"lang";s:2:"ru";s:11:"countryName";s:6:"США";s:10:"regionName";s:16:"Мэриленд";s:8:"cityName";s:16:"Балтимор";s:11:"countryCode";s:2:"US";s:10:"regionCode";s:5:"US-MD";s:13:"cityGeonameId";i:4347778;s:15:"regionGeonameId";i:4361885;s:8:"geonames";a:2:{i:4361885;a:1:{s:2:"ru";s:16:"Мэриленд";}i:4347778;a:1:{s:2:"ru";s:16:"Балтимор";}}s:8:"latitude";d:39.290379999999999;s:9:"longitude";d:-76.612189999999998;s:8:"timezone";s:16:"America/New_York";s:12:"handlerClass";s:35:"\\Bitrix\\Main\\Service\\GeoIp\\SypexGeo";}}}}';
+return true;
+?>

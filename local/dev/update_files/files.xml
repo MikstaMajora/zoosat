@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PRODUCTS>
+  <PRODUCT>
+    <CODED>44504</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44504/3Состав.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44504/1Описание.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44504/6Рекомендации по кормлению.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>44522</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44522/3Состав.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44522/5Порядок применения.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44522/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>36904</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/36904/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>36905</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/36905/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>37230</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/37230/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>44503</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44503/3Состав.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44503/1Описание.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44503/6Рекомендации по кормлению.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>44505</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44505/3Состав.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44505/1Описание.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44505/6Рекомендации по кормлению.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>44357</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44357/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>38223</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/38223/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>44312</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44312/3Состав.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44312/5Порядок применения.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44312/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODED>44313</CODED>
+    <FILES>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44313/3Состав.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44313/5Порядок применения.htm</OPTION>
+      <OPTION>/var/www/www-root/data/www/zoosat.website/bitrix/download/html/htmlnew/44313/1Описание.htm</OPTION>
+    </FILES>
+  </PRODUCT>
+</PRODUCTS>

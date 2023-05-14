@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/uniqcle/component.viavet/templates/main/styles.css" => "16499922693415",]; ?>

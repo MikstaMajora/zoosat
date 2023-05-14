@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Компания", 
+		"/company/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		"/company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Магазины", 
+		"/contacts/stores/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Политика", 
+		"/include/licenses_detail.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Благотворительность", 
+		"/viavet/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

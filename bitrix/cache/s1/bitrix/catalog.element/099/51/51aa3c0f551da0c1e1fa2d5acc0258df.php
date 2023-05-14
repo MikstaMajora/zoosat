@@ -1,0 +1,496 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680947308';
+$dateexpire = '001684547308';
+$ser_content = 'a:2:{s:7:"CONTENT";s:32404:"
+
+
+
+
+<div class="basket_props_block" id="bx_basket_div_16723" style="display: none;">
+	</div>
+
+
+
+
+<script type="text/javascript">
+setViewedProduct(16723, {\'PRODUCT_ID\':\'16723\',\'IBLOCK_ID\':\'28\',\'NAME\':\'ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.\',\'DETAIL_PAGE_URL\':\'/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/16723/\',\'PICTURE_ID\':\'7200\',\'CATALOG_MEASURE_NAME\':\'шт\',\'MIN_PRICE\':{\'UNROUND_BASE_PRICE\':\'320\',\'UNROUND_PRICE\':\'320\',\'BASE_PRICE\':\'320\',\'PRICE\':\'320\',\'ID\':\'132\',\'PRICE_TYPE_ID\':\'1\',\'CURRENCY\':\'RUB\',\'DISCOUNT\':\'0\',\'PERCENT\':\'0\',\'QUANTITY_FROM\':\'\',\'QUANTITY_TO\':\'\',\'QUANTITY_HASH\':\'ZERO-INF\',\'MEASURE_RATIO_ID\':\'\',\'PRINT_BASE_PRICE\':\'320 &#8381;\',\'RATIO_BASE_PRICE\':\'320\',\'PRINT_RATIO_BASE_PRICE\':\'320 &#8381;\',\'PRINT_PRICE\':\'320 &#8381;\',\'RATIO_PRICE\':\'320\',\'PRINT_RATIO_PRICE\':\'320 &#8381;\',\'PRINT_DISCOUNT\':\'0 &#8381;\',\'RATIO_DISCOUNT\':\'0\',\'PRINT_RATIO_DISCOUNT\':\'0 &#8381;\',\'MIN_QUANTITY\':\'1\',\'VALUE\':\'320\',\'PRINT_VALUE\':\'<span class=\\"price_value\\">320<\\/span><span class=\\"price_currency\\"> &#8381;<\\/span>\',\'DISCOUNT_VALUE\':\'320\',\'PRINT_DISCOUNT_VALUE\':\'<span class=\\"price_value\\">320<\\/span><span class=\\"price_currency\\"> &#8381;<\\/span>\'},\'CAN_BUY\':\'Y\',\'IS_OFFER\':\'N\',\'WITH_OFFERS\':\'N\'});
+</script>
+<meta itemprop="name" content="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." />
+<meta itemprop="category" content="Препараты для МДЖ/Противопаразитарные средства МДЖ" />
+<meta itemprop="description" content="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." />
+<meta itemprop="sku" content="16723" />
+<div class="item_main_info noffer show_un_props" id="bx_117848907_16723">
+	<div class="img_wrapper swipeignore">
+
+
+		
+		
+		
+		
+		<div class="stickers">
+											</div>
+
+
+		
+
+
+
+        <div class = "stickers">
+            <!-- Иконка для заводчиков -->
+
+                        </div>
+
+
+		<div class="item_slider">
+							<div class="like_wrapper">
+											<div class="like_icons iblock">
+																								<div class="wish_item text"  data-item="16723" data-iblock="28">
+										<span class="value" title="Отложить" ><i></i></span>
+										<span class="value added" title="В отложенных"><i></i></span>
+									</div>
+																												</div>
+									</div>
+			
+						<div class="slides">
+										<ul>
+																															<li id="photo-0" class="current">
+																			<link href="/upload/iblock/94c/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg" itemprop="image"/>
+																												<a href="/upload/iblock/94c/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg" data-fancybox-group="item_slider" class="popup_link fancy" title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.">
+											<img  src="/upload/resize_cache/iblock/94c/400_400_140cd750bba9870f18aada2478b24840a/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg"   alt="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка."/>
+											<div class="zoom"></div>
+										</a>
+																	</li>
+																															<li id="photo-1" style="display: none;">
+																												<a href="/upload/iblock/bd5/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg" data-fancybox-group="item_slider" class="popup_link fancy" title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.">
+											<img  src="/upload/resize_cache/iblock/bd5/400_400_140cd750bba9870f18aada2478b24840a/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg"   alt="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка."/>
+											<div class="zoom"></div>
+										</a>
+																	</li>
+													</ul>
+								</div>
+											<div class="wrapp_thumbs xzoom-thumbs">
+						<div class="thumbs flexslider" data-plugin-options=\'{"animation": "slide", "selector": ".slides_block > li", "directionNav": true, "itemMargin":10, "itemWidth": 54, "controlsContainer": ".thumbs_navigation", "controlNav" :false, "animationLoop": true, "slideshow": false}\' style="max-width:118px;">
+							<ul class="slides_block" id="thumbs">
+																	<li class="current" data-big_img="/upload/iblock/94c/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg" data-small_img="/upload/resize_cache/iblock/94c/400_400_140cd750bba9870f18aada2478b24840a/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg">
+										<span><img class="xzoom-gallery" width="50" data-xpreview="/upload/resize_cache/iblock/94c/50_50_140cd750bba9870f18aada2478b24840a/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg" src="/upload/resize_cache/iblock/94c/50_50_140cd750bba9870f18aada2478b24840a/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg" alt="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." /></span>
+									</li>
+																	<li  data-big_img="/upload/iblock/bd5/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg" data-small_img="/upload/resize_cache/iblock/bd5/400_400_140cd750bba9870f18aada2478b24840a/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg">
+										<span><img class="xzoom-gallery" width="50" data-xpreview="/upload/resize_cache/iblock/bd5/50_50_140cd750bba9870f18aada2478b24840a/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg" src="/upload/resize_cache/iblock/bd5/50_50_140cd750bba9870f18aada2478b24840a/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg" alt="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." /></span>
+									</li>
+															</ul>
+							<span class="thumbs_navigation custom_flex"></span>
+						</div>
+					</div>
+					<script>
+						$(document).ready(function(){
+							$(\'.item_slider .thumbs li\').first().addClass(\'current\');
+							$(\'.item_slider .thumbs .slides_block\').delegate(\'li:not(.current)\', \'click\', function(){
+								var slider_wrapper = $(this).parents(\'.item_slider\'),
+									index = $(this).index();
+								$(this).addClass(\'current\').siblings().removeClass(\'current\')//.parents(\'.item_slider\').find(\'.slides li\').fadeOut(333);
+								if(arNextOptions[\'THEME\'][\'DETAIL_PICTURE_MODE\'] == \'MAGNIFIER\')
+								{
+									var li = $(this).parents(\'.item_slider\').find(\'.slides li\');
+									li.find(\'img\').attr(\'src\', $(this).data(\'small_img\'));
+									li.find(\'img\').attr(\'xoriginal\', $(this).data(\'big_img\'));
+								}
+								else
+								{
+									slider_wrapper.find(\'.slides li\').removeClass(\'current\').hide();
+									slider_wrapper.find(\'.slides li:eq(\'+index+\')\').addClass(\'current\').show();
+								}
+							});
+						})
+					</script>
+									</div>
+							<div class="item_slider color-controls flex flexslider" data-plugin-options=\'{"animation": "slide", "directionNav": false, "controlNav": true, "animationLoop": false, "slideshow": false, "slideshowSpeed": 10000, "animationSpeed": 600}\'>
+				<ul class="slides">
+																			<li id="mphoto-0" class="current">
+																									<a href="/upload/iblock/94c/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg" data-fancybox-group="item_slider_flex" class="fancy popup_link" title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." >
+										<img src="/upload/resize_cache/iblock/94c/400_400_140cd750bba9870f18aada2478b24840a/juv3pke0fe185ujjefufxkr6vwq5p60c.jpg" alt="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." />
+										<div class="zoom"></div>
+									</a>
+															</li>
+																				<li id="mphoto-1" style="display: none;">
+																									<a href="/upload/iblock/bd5/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg" data-fancybox-group="item_slider_flex" class="fancy popup_link" title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." >
+										<img src="/upload/resize_cache/iblock/bd5/400_400_140cd750bba9870f18aada2478b24840a/ln7b0145wg9ylf09oqpn3h2pvtf3if88.jpg" alt="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." title="ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка." />
+										<div class="zoom"></div>
+									</a>
+															</li>
+										</ul>
+			</div>
+			</div>
+	<div class="right_info">
+		<div class="info_item">
+
+            <div class="code_block">
+                                                    Код товара:&nbsp 32010                      
+                                    &nbsp &nbsp Артикул:&nbsp 4 052                            </div>
+
+						
+            <!-- Баннер для заводчиков -->
+            
+			<div class="middle_info main_item_wrapper">
+			<!--\'start_frame_cache_qepX1R\'-->				<div class="prices_block">
+					<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="320">
+										<span><span class="values_wrapper"><span class="price_value">320</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+			
+																																<div class="" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+								<meta itemprop="price" content="320" />
+								<meta itemprop="priceCurrency" content="RUB" />
+								<link itemprop="availability" href="http://schema.org/InStock" />
+																<link itemprop="url" href="/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/16723/" />
+							</div>
+											</div>
+																																		<div class="quantity_block_wrapper">
+													<div class="p_block">
+													<div class="item-stock  " data-id="bx_117848907_16723" id=bx_117848907_16723_store_quantity><span class="icon stock stock_range_3"></span><span class="value">Есть в наличии <span class=\'store_view\'>(164)</span></span></div>													</div>
+																	</div>
+
+
+                </div>
+				<div class="buy_block">
+																<script>
+							$(document).ready(function() {
+								$(\'.catalog_detail input[data-sid="PRODUCT_NAME"]\').attr(\'value\', $(\'h1\').text());
+							});
+						</script>
+						<div class="counter_wrapp">
+															<div class="counter_block big_basket" data-offers="N" data-item="16723" >
+									<span class="minus" id="bx_117848907_16723_quant_down">-</span>
+									<input type="text" class="text" id="bx_117848907_16723_quantity" name="quantity" value="1" />
+									<span class="plus" id="bx_117848907_16723_quant_up" data-max=\'164\'>+</span>
+								</div>
+														<div id="bx_117848907_16723_basket_actions" class="button_block ">
+								<!--noindex-->
+									<span data-value="320" data-currency="RUB" data-rid="" class="btn-lg w_icons to-cart btn btn-default transition_bg animate-load" data-item="16723" data-float_ratio="" data-ratio="1" data-bakset_div="bx_basket_div_16723" data-props="" data-part_props="N" data-add_props="Y"  data-empty_props="Y" data-offers="" data-iblockID="28"  data-quantity="1"><i></i><span>В корзину</span></span><a rel="nofollow" href="/basket/" class="btn-lg w_icons in-cart btn btn-default transition_bg" data-item="16723"  style="display:none;"><i></i><span>В корзине</span></a>								<!--/noindex-->
+							</div>
+						</div>
+																																															</div>
+
+																										<!--\'end_frame_cache_qepX1R\'-->			</div>
+			<div class="stock_wrapper" style="display:none;"></div>
+			<div class="element_detail_text wrap_md">
+
+				<div class="price_txt">
+											<div class="sharing">
+							<div class="">
+								<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script> <script src="//yastatic.net/share2/share.js" data-charset="utf-8"></script>
+<div class="share_wrapp">
+	<div class="text btn transparent">
+		Поделиться	</div>
+	<div class="ya-share2 yashare-auto-init shares" data-services="vkontakte,facebook,odnoklassniki,moimir,twitter,viber,whatsapp,skype,telegram">
+	</div>
+</div>
+<br>							</div>
+						</div>
+										<div class="text">
+						Цена действительна только для интернет-магазина и может отличаться от цен в розничных магазинах
+					</div>
+				</div>
+			</div>
+
+                        <div>
+
+                Производитель: <a href = "/manufacturers/?SECTION_ID=323" target = "_blank">APICENNA</a>
+
+                            </div>
+            
+                        <div class="sibagro_barcode">
+                <!-- Штрих код -->
+                <div>
+                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPYAAAAeAQMAAAAly3FkAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADRJREFUKJFj+MzDfJj/zJ//BucZPnw+zMPPz3DY4POHw+cPnz9/nvmzDcOo/Kj8qPyglQcAh1QEN6xGPQMAAAAASUVORK5CYII=">                </div>
+                <div class="sibagro_barcode_value">4650104751313</div>
+            </div>
+            
+            
+		</div>
+	</div>
+						<div class="clearleft"></div>
+
+										
+
+
+</div>
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--Вкладки -->
+    <div class = "tabs">
+
+        <!--Навигация по вкладкам -->
+        <ul class = "nav nav-tabs">
+            
+                
+                                    <li class = "active"><a href = "#tab1" data-toggle = "tab"> Описание </a></li>
+                
+
+            
+                
+                
+                    <li><a href = "#tab5" data-toggle = "tab"  > Порядок применения </a></li>
+
+                
+
+            
+                
+                
+                    <li><a href = "#tab7" data-toggle = "tab"  > Дозировка </a></li>
+
+                
+
+            
+                    </ul>
+
+        <!--Содержание вкладок -->
+        <div class = "tab-content">
+
+            
+                
+
+
+                
+                    <div class="tab-pane   in active" id = "tab1" >
+
+
+                        <html><head><meta charset="utf-8"></head><body>
+<p>Эффективная профилактика и лечение заражения круглыми и ленточными паразитами.</p>
+<p>30 дней защиты от внешних паразитов (блох, вшей, власоедов), являющихся переносчиками гельминтов.</p>
+<p>Отсутствие привыкания паразитов к составу препарата.</p>
+<p>Дополнительная поддержка иммунитета.</p>
+<p>Легкость обработки даже агрессивных и капризных животных.</p>
+</body></html>
+
+                    </div>
+                
+            
+                
+
+
+                
+
+                    <div class="tab-pane  "  id = "tab5">
+
+
+                        <html><head><meta charset="utf-8"></head><body>
+<p>1. Наименование лекарственного препарата для ветеринарного применения: торговое наименование: Празицид&reg;-комплекс (Prazicid-complex); международные непатентованные наименования действующих веществ: празиквантел, ивермектин, фипронил, левамизол.</p>
+<p>2. Лекарственная форма: раствор для наружного применения. Празицид&reg;-комплекс в 1 мл содержит в качестве действующих веществ празиквантел - 102 мг, ивермектин &ndash; 5 мг, фипронил - 100 мг, левамизол &ndash; 25 мг; вспомогательные вещества: диметилсульфоксид, полиэтиленгликоль, отдушка &laquo;Голубая река&raquo;, бутилгидрокситолуол, бутилгидроксианизол и спирт бензиловый.</p>
+<p>3. По внешнему виду препарат представляет собой прозрачную светло-желтую жидкость.<br />Срок годности лекарственного препарата при соблюдении условий хранения в закрытой упаковке производителя - 2 года со дня производства.<br />Запрещается применение препарата Празицид&reg; - комплекс по истечении срока годности.</p>
+<p>4. Препарат выпускают упакованным по 0,4; 0,5; 0,8; 1; 2 и 4 мл в металлополимерные пипетки, упакованные поштучно в блистеры из полимерного или металлополимерного материала на спайке или на защелках в комплекте с инструкцией по применению и наклейкой в ветеринарный паспорт.</p>
+<p>5. Хранят препарат в закрытой упаковке производителя, в защищенном от прямых солнечных лучей месте, отдельно от продуктов питания и кормов при температуре от 2&deg;С до 25&deg;С.</p>
+<p>6. Препарат Празицид&reg; - комплекс следует хранить в местах, недоступных для детей.</p>
+<p>7. Неиспользованный препарат утилизируют в соответствии с требованиями законодательства.</p>
+<p>8. Условия отпуска: без рецепта ветеринарного врача.</p>
+<p>9. Празицид-комплекс относится к комбинированным противопаразитарным лекарственным препаратам. <br />&nbsp;<br />10. Ивермектин, входящий в состав препарата обладает широким спектром действия, активен в отношении личиночных и половозрелых фаз развития кишечных нематод и цестод, блох, вшей, власоедов, саркоптоидных, демодекозных и иксодовых клещей, паразитирующих у собак и кошек. <br />Механизм действия входящего в состав препарата ивермектина заключается в нарушении передачи нервных импульсов, что приводит к параличу и гибели паразита. <br />Действие празиквантела основано на ингибировании фумаратредуктазы, стойкой деполяризации мышечных клеток, нарушении энергетического обмена, что вызывает паралич и гибель гельминтов. <br />Левамизол обладает нематодоцидной активностью, а также проявляет иммуностимулирующие свойства за счет увеличения количества Т-лимфоцитов.<br />Тиаметоксам является соединением из группы никотиноидов, обладает контактным и кишечным инсектоакарицидным действием. Являясь антагонистом никотин-ацетилхолиновых рецепторов, вызывает гиперполяризацию мембран нервного волокна членистонигих, что приводит к гибели паразитов.<br />Празицид-комплекс по степени воздействия на организм относится к умеренно-опасным веществам (3 класс опасности по ГОСТ 12.1.007-76), при нанесении на кожу в рекомендуемых дозах не оказывает резорбтивно-токсического, местно-раздражающего, эмбриотоксического, тератогенного и сенсибилизирующего действия. При попадании на слизистые вызывает слабое раздражение. Препарат токсичен для рыб и пчел.</p>
+<p>11. Празицид&reg;-комплекс назначают взрослым собакам и кошкам, щенкам и котятам, начиная с 2-месячного возраста, для лечения и профилактики кишечных нематодозов, цестодозов, энтомозов, отодектоза, саркоптоза, нотоэдроза, демодекоза и защиты животных от нападения иксодовых клещей.</p>
+<p>12. Празицид&reg;-комплекс запрещается применять больным инфекционными болезнями, выздоравливающим, истощенным и ослабленным животным. Собакам пород колли, шелти, бобтейл и их помесям препарат следует применять с осторожностью.</p>
+<p>13. При работе с препаратом Празицид&reg;-комплекс следует соблюдать общие правила личной гигиены и техники безопасности, предусмотренные при работе с лекарственными препаратами. По окончании работы руки следует вымыть теплой водой с мылом. При случайном контакте лекарственного препарата с кожей или слизистыми оболочками глаза, их следует немедленно промыть большим количеством воды. Людям с гиперчувствительностью к компонентам препарата следует избегать прямого контакта с препаратом Празицид&reg;-комплекс. В случае появления аллергических реакций или при случайном попадании препарата в организм человека, следует немедленно обратиться в медицинское учреждение (при себе иметь инструкцию по применению препарата или этикетку). Пустую тару из-под лекарственного препарата запрещается использовать для бытовых целей, она подлежит утилизации с бытовыми отходами.</p>
+<p>14. Празицид&reg;-комплекс запрещается применять щенкам и котятам моложе 2-х месячного возраста, а также самкам в период беременности и вскармливания потомства.</p>
+<p>15. Препарат наносят на кожу животному, раздвинув шерсть, в места, недоступные для слизывания (в области шеи у основания черепа или между лопатками); при обработке крупных животных препарат наносят в 3-4 места.</p>
+<p>Для уничтожения блох, вшей, власоедов и защиты животных от нападения иксодовых клещей обработку животных препаратом Празицид&reg;-комплекс проводят один раз в месяц на протяжении всего сезона активности насекомых. Препарат применяют животным наружно, путем нанесения на сухую неповрежденную кожу.</p>
+<p>Для лечения отодектоза (ушной чесотки) препарат наносят на кожу однократно. В процессе лечения рекомендуется очищать слуховой проход от экссудата и струпьев, а в случае осложнения отитом &ndash; назначать противомикробные и противовоспалительные средства.</p>
+<p>При саркоптозе, нотоэдрозе и демодекозе лекарственный препарат наносят тампоном на предварительно очищенные от струпьев пораженные участки тела от периферии к центру с захватом пограничной здоровой кожи до 1 см, в дозах, указанных в таблице. Обработку проводят 2-4 раза с интервалом 10-14 дней до клинического выздоровления животного, которое подтверждают двумя отрицательными результатами акарологических исследований. Животных с обширными участками поражения обрабатывают в два приема с интервалом 1 день, нанося лекарственный препарат сначала на одну, а затем на другую половину пораженной поверхности тела.</p>
+<p>Лечение рекомендуется проводить комплексно с применением патогенетических и симптоматических средств согласно инструкциям по их применению.</p>
+<p>Для дегельминтизации животных при нематодозах и цестодозах препарат применяют с лечебной целью однократно, с профилактической - один раз в квартал в дозах, указанных в таблице.</p>
+<p>Для предотвращения слизывания препарата животному надевают шейный воротник, намордник или смыкают челюсти петлей из тесьмы, которые снимают через 20-30 минут после нанесения раствора.</p>
+<p>16. Побочных явлений и осложнений при применении препарата Празицид&reg;-комплекс в соответствии с настоящей инструкцией, как правило, не наблюдается. В редких случаях при повышенной индивидуальной чувствительности к препарату (слезотечение, расширение зрачков, избыточное слюноотделение, атаксия, мышечная дрожь, тошнота, рвота, общая слабость и вялость животного) или появлении признаков раздражения кожи, его применение следует прекратить, смыть его водой с моющим средством и при необходимости назначить животному антигистаминные и симптоматические средства.</p>
+<p>17. При значительной передозировке лекарственного препарата у животных может наблюдаться: беспокойство, гиперсаливация, мышечная дрожь, атаксия, потеря ориентации в пространстве, одышка, понос и рвота. Специфические средства детоксикации отсутствуют, применяют общие меры, направленные на выведение лекарственного препарата из организма.</p>
+<p>18. Празицид&reg;-комплекс не следует применять совместно с авермектинсодержащими и другими противопаразитарными лекарственными препаратами.</p>
+<p>19. Особенностей действия лекарственного препарата при его первом применении и отмене не выявлено.</p>
+<p>20. В случае пропуска очередной обработки Празицид&reg;-комплексом его применение возобновляют в той же дозе и по той же схеме.</p>
+<p>21. Празицид&reg;-комплекс не предназначен для применения продуктивным животным.</p>
+</body></html>
+                    </div>
+
+                
+            
+                
+
+
+                
+
+                    <div class="tab-pane  "  id = "tab7">
+
+
+                        <html><head><meta charset="utf-8"></head><body>
+<table class="table  table-delivery">
+<tbody>
+<tr>
+<th>&nbsp;Масса животного</th>
+<th>&nbsp;Объем препарата на животное, мл</th>
+<th>&nbsp;Количество пипеток, шт.</th>
+</tr>
+<tr>
+<td>&nbsp;Собаки и щенки до 5 кг</td>
+<td>&nbsp;0,5 мл</td>
+<td>&nbsp;1 пипетка</td>
+</tr>
+<tr>
+<td>&nbsp;Собаки и щенки от 5 до 10 кг</td>
+<td>&nbsp;1 мл</td>
+<td>&nbsp;1 пипетка</td>
+</tr>
+<tr>
+<td>&nbsp;Собаки и щенки от 10 до 20 кг</td>
+<td class="null">&nbsp;2 мл</td>
+<td class="null">&nbsp;1 пипетка</td>
+</tr>
+<tr>
+<td>&nbsp;Собаки от 20 до 40 кг</td>
+<td>&nbsp;4 мл</td>
+<td>&nbsp;Комбинация пипеток</td>
+</tr>
+<tr>
+<td>&nbsp;Собаки от 40 до 60 кг</td>
+<td>&nbsp;6 мл</td>
+<td>&nbsp;Комбинация пипеток</td>
+</tr>
+<tr>
+<td>&nbsp;Собаки от 60 до 80 кг&nbsp;</td>
+<td>&nbsp;8 мл</td>
+<td>&nbsp;1 пипетка</td>
+</tr>
+<tr>
+<td>&nbsp;Кошки менее 4 кг</td>
+<td>&nbsp;0,4 мл</td>
+<td>&nbsp;1 пипетка</td>
+</tr>
+<tr>
+<td>&nbsp;Котята более 4 кг</td>
+<td>&nbsp;0,8 мл</td>
+<td>&nbsp;1 пипетка</td>
+</tr>
+</tbody>
+</table>
+<p>Собакам весом от 40 до 60 кг дозировка препарата составляет 6 мл, что достигается комбинированием 2 пипеток объемом 2 и 4 мл, для собак весом от 60 до 80 кг необходимо 2 пипетки по 4 мл.</p>
+</body></html>
+                    </div>
+
+                
+            
+        </div>
+
+    </div>
+    <!-- закрытие вкладок-->
+
+    
+
+
+
+
+<script type="text/javascript">
+	BX.message({
+		QUANTITY_AVAILIABLE: \'Есть в наличии\',
+		QUANTITY_NOT_AVAILIABLE: \'Нет в наличии\',
+		ADD_ERROR_BASKET: \'\',
+		ADD_ERROR_COMPARE: \'\',
+		ONE_CLICK_BUY: \'Купить в 1 клик\',
+		SITE_ID: \'s1\'
+	})
+</script>
+
+";s:4:"VARS";a:2:{s:8:"arResult";a:12:{s:9:"IBLOCK_ID";i:28;s:2:"ID";i:16723;s:17:"IBLOCK_SECTION_ID";s:3:"229";s:4:"NAME";s:82:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.";s:13:"LIST_PAGE_URL";s:12:"/catalogzoo/";s:7:"SECTION";a:53:{s:2:"ID";s:3:"227";s:3:"~ID";s:3:"227";s:11:"MODIFIED_BY";s:1:"3";s:12:"~MODIFIED_BY";s:1:"3";s:10:"CREATED_BY";s:1:"3";s:11:"~CREATED_BY";s:1:"3";s:9:"IBLOCK_ID";s:2:"28";s:10:"~IBLOCK_ID";s:2:"28";s:17:"IBLOCK_SECTION_ID";s:3:"209";s:18:"~IBLOCK_SECTION_ID";s:3:"209";s:6:"ACTIVE";s:1:"Y";s:7:"~ACTIVE";s:1:"Y";s:13:"GLOBAL_ACTIVE";s:1:"Y";s:14:"~GLOBAL_ACTIVE";s:1:"Y";s:4:"SORT";s:4:"1230";s:5:"~SORT";s:4:"1230";s:4:"NAME";s:62:"Противопаразитарные средства МДЖ";s:5:"~NAME";s:62:"Противопаразитарные средства МДЖ";s:7:"PICTURE";N;s:8:"~PICTURE";N;s:11:"LEFT_MARGIN";s:3:"324";s:12:"~LEFT_MARGIN";s:3:"324";s:12:"RIGHT_MARGIN";s:3:"335";s:13:"~RIGHT_MARGIN";s:3:"335";s:11:"DEPTH_LEVEL";s:1:"2";s:12:"~DEPTH_LEVEL";s:1:"2";s:11:"DESCRIPTION";s:0:"";s:12:"~DESCRIPTION";s:0:"";s:16:"DESCRIPTION_TYPE";s:4:"text";s:17:"~DESCRIPTION_TYPE";s:4:"text";s:4:"CODE";s:33:"protivoparazitarnye_sredstva_mdzh";s:5:"~CODE";s:33:"protivoparazitarnye_sredstva_mdzh";s:6:"XML_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:7:"~XML_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:6:"TMP_ID";N;s:7:"~TMP_ID";N;s:14:"DETAIL_PICTURE";N;s:15:"~DETAIL_PICTURE";N;s:15:"SOCNET_GROUP_ID";N;s:16:"~SOCNET_GROUP_ID";N;s:13:"LIST_PAGE_URL";s:12:"/catalogzoo/";s:14:"~LIST_PAGE_URL";s:12:"/catalogzoo/";s:16:"SECTION_PAGE_URL";s:66:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/";s:17:"~SECTION_PAGE_URL";s:66:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/";s:14:"IBLOCK_TYPE_ID";s:10:"1c_catalog";s:15:"~IBLOCK_TYPE_ID";s:10:"1c_catalog";s:11:"IBLOCK_CODE";s:10:"catalog_1c";s:12:"~IBLOCK_CODE";s:10:"catalog_1c";s:18:"IBLOCK_EXTERNAL_ID";s:36:"7bc9e978-cb5d-4621-ba99-2eacbe7bb2a7";s:19:"~IBLOCK_EXTERNAL_ID";s:36:"7bc9e978-cb5d-4621-ba99-2eacbe7bb2a7";s:11:"EXTERNAL_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:12:"~EXTERNAL_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:4:"PATH";a:2:{i:0;a:31:{s:2:"ID";s:3:"209";s:3:"~ID";s:3:"209";s:4:"CODE";s:19:"preparaty_dlya_mdzh";s:5:"~CODE";s:19:"preparaty_dlya_mdzh";s:6:"XML_ID";s:36:"c064d9e0-e345-4864-8433-d211c72cb65f";s:7:"~XML_ID";s:36:"c064d9e0-e345-4864-8433-d211c72cb65f";s:11:"EXTERNAL_ID";s:36:"c064d9e0-e345-4864-8433-d211c72cb65f";s:12:"~EXTERNAL_ID";s:36:"c064d9e0-e345-4864-8433-d211c72cb65f";s:9:"IBLOCK_ID";s:2:"28";s:10:"~IBLOCK_ID";s:2:"28";s:17:"IBLOCK_SECTION_ID";N;s:18:"~IBLOCK_SECTION_ID";N;s:4:"SORT";s:4:"1050";s:5:"~SORT";s:4:"1050";s:4:"NAME";s:32:"Препараты для МДЖ";s:5:"~NAME";s:32:"Препараты для МДЖ";s:6:"ACTIVE";s:1:"Y";s:7:"~ACTIVE";s:1:"Y";s:11:"DEPTH_LEVEL";s:1:"1";s:12:"~DEPTH_LEVEL";s:1:"1";s:16:"SECTION_PAGE_URL";s:32:"/catalogzoo/preparaty_dlya_mdzh/";s:17:"~SECTION_PAGE_URL";s:32:"/catalogzoo/preparaty_dlya_mdzh/";s:14:"IBLOCK_TYPE_ID";s:10:"1c_catalog";s:15:"~IBLOCK_TYPE_ID";s:10:"1c_catalog";s:11:"IBLOCK_CODE";s:10:"catalog_1c";s:12:"~IBLOCK_CODE";s:10:"catalog_1c";s:18:"IBLOCK_EXTERNAL_ID";s:36:"7bc9e978-cb5d-4621-ba99-2eacbe7bb2a7";s:19:"~IBLOCK_EXTERNAL_ID";s:36:"7bc9e978-cb5d-4621-ba99-2eacbe7bb2a7";s:13:"GLOBAL_ACTIVE";s:1:"Y";s:14:"~GLOBAL_ACTIVE";s:1:"Y";s:16:"IPROPERTY_VALUES";a:8:{s:18:"ELEMENT_PAGE_TITLE";s:32:"Препараты для МДЖ";s:31:"SECTION_DETAIL_PICTURE_FILE_ALT";s:32:"Препараты для МДЖ";s:32:"ELEMENT_PREVIEW_PICTURE_FILE_ALT";s:32:"Препараты для МДЖ";s:18:"SECTION_META_TITLE";s:213:"Купить Ветеринарные Препараты для Кошек, Собак в Новосибирске интернет-зоомагазин ZOOcat с доставкой – выгодные цены! ";s:24:"SECTION_META_DESCRIPTION";s:345:"Лекарственные Препараты для мелких домашних животных: кошек, собак, птиц, хомяков и др. грызунов в зоомагазине ЗООСАТ с бесплатной доставкой от 1 000 ₽ по Новосибирску. Более 7 000 наименований";s:18:"ELEMENT_META_TITLE";s:125:"Купить Препараты для МДЖ в Новосибирске – Основной каталог товаров ";s:18:"SECTION_PAGE_TITLE";s:101:"Ветеринарные препараты для кошек, собак, птиц, грызунов";s:24:"ELEMENT_META_DESCRIPTION";s:240:"Препараты для МДЖ Заказать от производителя  с доставкой на дом. Товар в наличии! Выгодная цена. Состав, фото, отзывы, акции и скидки!";}}i:1;a:31:{s:2:"ID";s:3:"227";s:3:"~ID";s:3:"227";s:4:"CODE";s:33:"protivoparazitarnye_sredstva_mdzh";s:5:"~CODE";s:33:"protivoparazitarnye_sredstva_mdzh";s:6:"XML_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:7:"~XML_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:11:"EXTERNAL_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:12:"~EXTERNAL_ID";s:36:"dc9cd900-1947-475d-ba9c-b48e5676350d";s:9:"IBLOCK_ID";s:2:"28";s:10:"~IBLOCK_ID";s:2:"28";s:17:"IBLOCK_SECTION_ID";s:3:"209";s:18:"~IBLOCK_SECTION_ID";s:3:"209";s:4:"SORT";s:4:"1230";s:5:"~SORT";s:4:"1230";s:4:"NAME";s:62:"Противопаразитарные средства МДЖ";s:5:"~NAME";s:62:"Противопаразитарные средства МДЖ";s:6:"ACTIVE";s:1:"Y";s:7:"~ACTIVE";s:1:"Y";s:11:"DEPTH_LEVEL";s:1:"2";s:12:"~DEPTH_LEVEL";s:1:"2";s:16:"SECTION_PAGE_URL";s:66:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/";s:17:"~SECTION_PAGE_URL";s:66:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/";s:14:"IBLOCK_TYPE_ID";s:10:"1c_catalog";s:15:"~IBLOCK_TYPE_ID";s:10:"1c_catalog";s:11:"IBLOCK_CODE";s:10:"catalog_1c";s:12:"~IBLOCK_CODE";s:10:"catalog_1c";s:18:"IBLOCK_EXTERNAL_ID";s:36:"7bc9e978-cb5d-4621-ba99-2eacbe7bb2a7";s:19:"~IBLOCK_EXTERNAL_ID";s:36:"7bc9e978-cb5d-4621-ba99-2eacbe7bb2a7";s:13:"GLOBAL_ACTIVE";s:1:"Y";s:14:"~GLOBAL_ACTIVE";s:1:"Y";s:16:"IPROPERTY_VALUES";a:8:{s:18:"ELEMENT_PAGE_TITLE";s:62:"Противопаразитарные средства МДЖ";s:31:"SECTION_DETAIL_PICTURE_FILE_ALT";s:62:"Противопаразитарные средства МДЖ";s:32:"ELEMENT_PREVIEW_PICTURE_FILE_ALT";s:62:"Противопаразитарные средства МДЖ";s:18:"ELEMENT_META_TITLE";s:141:"Купить Противопаразитарные средства МДЖ в Новосибирске – Препараты для МДЖ ";s:24:"ELEMENT_META_DESCRIPTION";s:270:"Противопаразитарные средства МДЖ Заказать от производителя  с доставкой на дом. Товар в наличии! Выгодная цена. Состав, фото, отзывы, акции и скидки!";s:18:"SECTION_META_TITLE";s:225:"Купить Противопаразитарные средства для животных в Новосибирске интернет-зоомагазин ЗООСАТ с доставкой – выгодные цены! ";s:24:"SECTION_META_DESCRIPTION";s:380:"Противопаразитарные ветеринарные средства для мелких домашних животных: кошек, собак, птиц, хомяков и др. грызунов в зоомагазине ЗООСАТ с бесплатной доставкой от 1 000 ₽ по Новосибирску. Более 7 000 наименований";s:18:"SECTION_PAGE_TITLE";s:89:"Противопаразитарные препараты для собак и кошек";}}}}s:16:"IPROPERTY_VALUES";a:8:{s:18:"ELEMENT_PAGE_TITLE";s:82:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.";s:31:"SECTION_DETAIL_PICTURE_FILE_ALT";s:82:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.";s:32:"ELEMENT_PREVIEW_PICTURE_FILE_ALT";s:82:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.";s:18:"SECTION_META_TITLE";s:229:"Препараты для защиты от блох и клещей у кошек и собак в Новосибирске интернет-зоомагазин ЗООСАТ с доставкой – выгодные цены! ";s:24:"SECTION_META_DESCRIPTION";s:338:"Купить Противопаразитарные ветеринарные средства для защиты от блох и клещей кошек и собак в зоомагазине ЗООСАТ с бесплатной доставкой от 1 000 ₽ по Новосибирску. Более 7 000 наименований";s:18:"ELEMENT_META_TITLE";s:194:"Купить ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка. APICENNA в Новосибирске – Защита от блох, клещей и др. МДЖ ";s:24:"ELEMENT_META_DESCRIPTION";s:298:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка. Заказать от производителя APICENNA с доставкой на дом. Товар в наличии! Выгодная цена. Состав, фото, отзывы, акции и скидки!";s:18:"SECTION_PAGE_TITLE";s:80:"Препараты от блох и клещей для кошек и собак";}s:11:"TIMESTAMP_X";s:19:"08.04.2023 01:18:35";s:16:"BACKGROUND_IMAGE";b:0;s:19:"USE_CATALOG_BUTTONS";a:1:{s:11:"add_product";b:1;}s:11:"counterData";a:4:{s:4:"item";s:832:"eyJwcm9kdWN0X2lkIjoxNjcyMywiaWJsb2NrX2lkIjoyOCwicHJvZHVjdF90aXRsZSI6Ilx1MDQxZlx1MDQyMFx1MDQxMFx1MDQxN1x1MDQxOFx1MDQyNlx1MDQxOFx1MDQxNC1cdTA0MWFcdTA0MWVcdTA0MWNcdTA0MWZcdTA0MWJcdTA0MTVcdTA0MWFcdTA0MjEgXHUwNDM0XHUwNDNiXHUwNDRmIFx1MDQ0MVx1MDQzZVx1MDQzMVx1MDQzMFx1MDQzYSA1IC0gMTAgXHUwNDNhXHUwNDMzLCAxIFx1MDQzZlx1MDQzOFx1MDQzZlx1MDQzNVx1MDQ0Mlx1MDQzYVx1MDQzMC4iLCJjYXRlZ29yeV9pZCI6IjIyNyIsImNhdGVnb3J5Ijp7IjIwOSI6Ilx1MDQxZlx1MDQ0MFx1MDQzNVx1MDQzZlx1MDQzMFx1MDQ0MFx1MDQzMFx1MDQ0Mlx1MDQ0YiBcdTA0MzRcdTA0M2JcdTA0NGYgXHUwNDFjXHUwNDE0XHUwNDE2IiwiMjI3IjoiXHUwNDFmXHUwNDQwXHUwNDNlXHUwNDQyXHUwNDM4XHUwNDMyXHUwNDNlXHUwNDNmXHUwNDMwXHUwNDQwXHUwNDMwXHUwNDM3XHUwNDM4XHUwNDQyXHUwNDMwXHUwNDQwXHUwNDNkXHUwNDRiXHUwNDM1IFx1MDQ0MVx1MDQ0MFx1MDQzNVx1MDQzNFx1MDQ0MVx1MDQ0Mlx1MDQzMlx1MDQzMCBcdTA0MWNcdTA0MTRcdTA0MTYifSwicHJpY2UiOjMyMCwiY3VycmVuY3kiOiJSVUIifQ==";s:7:"user_id";O:29:"Bitrix\\Main\\Text\\JsExpression":1:{s:13:"'.chr(0).'*'.chr(0).'expression";s:69:"function(){return BX.message("USER_ID") ? BX.message("USER_ID") : 0;}";}s:14:"recommendation";O:29:"Bitrix\\Main\\Text\\JsExpression":1:{s:13:"'.chr(0).'*'.chr(0).'expression";s:493:"function() {
+							var rcmId = "";
+							var cookieValue = BX.getCookie("BITRIX_SM_RCM_PRODUCT_LOG");
+							var productId = 16723;
+							var cItems = [];
+							var cItem;
+
+							if (cookieValue)
+							{
+								cItems = cookieValue.split(".");
+							}
+
+							var i = cItems.length;
+							while (i--)
+							{
+								cItem = cItems[i].split("-");
+								if (cItem[0] == productId)
+								{
+									rcmId = cItem[1];
+									break;
+								}
+							}
+
+							return rcmId;
+						}";}s:1:"v";s:1:"2";}s:9:"META_TAGS";a:5:{s:5:"TITLE";s:82:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.";s:13:"ELEMENT_CHAIN";s:82:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка.";s:13:"BROWSER_TITLE";s:194:"Купить ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка. APICENNA в Новосибирске – Защита от блох, клещей и др. МДЖ ";s:8:"KEYWORDS";s:0:"";s:11:"DESCRIPTION";s:298:"ПРАЗИЦИД-КОМПЛЕКС для собак 5 - 10 кг, 1 пипетка. Заказать от производителя APICENNA с доставкой на дом. Товар в наличии! Выгодная цена. Состав, фото, отзывы, акции и скидки!";}}s:18:"templateCachedData";a:5:{s:12:"additionalJS";s:84:"/bitrix/templates/aspro_next/components/bitrix/catalog.element/main_zoosat/script.js";s:6:"frames";a:1:{i:0;a:6:{s:2:"id";s:6:"qepX1R";s:11:"containerId";N;s:10:"staticPart";s:2808:"				<div class="prices_block">
+					<div class="cost prices clearfix">
+																																													<div class="price_matrix_block">
+																						<div class="price_matrix_wrapper ">
+																																				<div class="price" data-currency="RUB" data-value="320">
+										<span><span class="values_wrapper"><span class="price_value">320</span><span class="price_currency"> &#8381;</span></span></span>
+									</div>
+																																		</div>
+															</div>
+			
+																																<div class="" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+								<meta itemprop="price" content="320" />
+								<meta itemprop="priceCurrency" content="RUB" />
+								<link itemprop="availability" href="http://schema.org/InStock" />
+																<link itemprop="url" href="/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/16723/" />
+							</div>
+											</div>
+																																		<div class="quantity_block_wrapper">
+													<div class="p_block">
+													<div class="item-stock  " data-id="bx_117848907_16723" id=bx_117848907_16723_store_quantity><span class="icon stock stock_range_3"></span><span class="value">Есть в наличии <span class=\'store_view\'>(164)</span></span></div>													</div>
+																	</div>
+
+
+                </div>
+				<div class="buy_block">
+																<script>
+							$(document).ready(function() {
+								$(\'.catalog_detail input[data-sid="PRODUCT_NAME"]\').attr(\'value\', $(\'h1\').text());
+							});
+						</script>
+						<div class="counter_wrapp">
+															<div class="counter_block big_basket" data-offers="N" data-item="16723" >
+									<span class="minus" id="bx_117848907_16723_quant_down">-</span>
+									<input type="text" class="text" id="bx_117848907_16723_quantity" name="quantity" value="1" />
+									<span class="plus" id="bx_117848907_16723_quant_up" data-max=\'164\'>+</span>
+								</div>
+														<div id="bx_117848907_16723_basket_actions" class="button_block ">
+								<!--noindex-->
+									<span data-value="320" data-currency="RUB" data-rid="" class="btn-lg w_icons to-cart btn btn-default transition_bg animate-load" data-item="16723" data-float_ratio="" data-ratio="1" data-bakset_div="bx_basket_div_16723" data-props="" data-part_props="N" data-add_props="Y"  data-empty_props="Y" data-offers="" data-iblockID="28"  data-quantity="1"><i></i><span>В корзину</span></span><a rel="nofollow" href="/basket/" class="btn-lg w_icons in-cart btn btn-default transition_bg" data-item="16723"  style="display:none;"><i></i><span>В корзине</span></a>								<!--/noindex-->
+							</div>
+						</div>
+																																															</div>
+
+																										";s:17:"useBrowserStorage";b:0;s:10:"autoUpdate";b:1;s:12:"useAnimation";b:0;}}s:9:"frameMode";b:1;s:16:"component_epilog";a:5:{s:10:"epilogFile";s:95:"/bitrix/templates/aspro_next/components/bitrix/catalog.element/main_zoosat/component_epilog.php";s:12:"templateName";s:11:"main_zoosat";s:12:"templateFile";s:87:"/bitrix/templates/aspro_next/components/bitrix/catalog.element/main_zoosat/template.php";s:14:"templateFolder";s:74:"/bitrix/templates/aspro_next/components/bitrix/catalog.element/main_zoosat";s:12:"templateData";a:15:{s:16:"TEMPLATE_LIBRARY";a:1:{i:0;s:8:"currency";}s:10:"CURRENCIES";s:153:"[{\'CURRENCY\':\'RUB\',\'FORMAT\':{\'FORMAT_STRING\':\'# &#8381;\',\'DEC_POINT\':\'.\',\'THOUSANDS_SEP\':\'&nbsp;\',\'DECIMALS\':2,\'THOUSANDS_VARIANT\':\'B\',\'HIDE_ZERO\':\'Y\'}}]";s:11:"EXPANDABLES";N;s:18:"EXPANDABLES_FILTER";s:0:"";s:10:"ASSOCIATED";N;s:17:"ASSOCIATED_FILTER";s:0:"";s:6:"STORES";a:19:{s:15:"USE_STORE_PHONE";s:1:"Y";s:8:"SCHEDULE";N;s:14:"USE_MIN_AMOUNT";s:1:"N";s:10:"MIN_AMOUNT";s:2:"10";s:10:"ELEMENT_ID";i:16723;s:10:"STORE_PATH";s:28:"/contacts/stores/#store_id#/";s:10:"MAIN_TITLE";s:34:"Наличие на складах";s:10:"MAX_AMOUNT";s:2:"20";s:19:"USE_ONLY_MAX_AMOUNT";s:1:"Y";s:16:"SHOW_EMPTY_STORE";s:1:"N";s:30:"SHOW_GENERAL_STORE_INFORMATION";s:1:"N";s:11:"USER_FIELDS";a:2:{i:0;s:0:"";i:1;s:0:"";}s:6:"FIELDS";a:2:{i:0;s:0:"";i:1;s:0:"";}s:19:"STORES_FILTER_ORDER";s:8:"SORT_ASC";s:13:"STORES_FILTER";s:5:"TITLE";s:6:"STORES";a:1:{i:0;s:1:"1";}s:9:"SET_ITEMS";N;s:7:"SITE_ID";s:2:"s1";s:10:"USE_STORES";b:1;}s:11:"OFFERS_INFO";a:3:{s:6:"OFFERS";a:0:{}s:11:"OFFER_GROUP";N;s:13:"OFFERS_IBLOCK";N;}s:12:"GIFTS_PARAMS";a:14:{s:7:"CATALOG";b:1;s:16:"BUY_URL_TEMPLATE";s:91:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/16723/?action=BUY&id=#ID#";s:16:"ADD_URL_TEMPLATE";s:98:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/16723/?action=ADD2BASKET&id=#ID#";s:22:"SUBSCRIBE_URL_TEMPLATE";s:105:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/16723/?action=SUBSCRIBE_PRODUCT&id=#ID#";s:20:"COMPARE_URL_TEMPLATE";s:107:"/catalogzoo/preparaty_dlya_mdzh/protivoparazitarnye_sredstva_mdzh/16723/?action=ADD_TO_COMPARE_LIST&id=#ID#";s:6:"MODULE";s:7:"catalog";s:22:"PRODUCT_PROVIDER_CLASS";s:23:"CCatalogProductProvider";s:8:"QUANTITY";N;s:9:"IBLOCK_ID";i:28;s:10:"SECTION_ID";s:3:"227";s:17:"SECTION_IBLOCK_ID";s:2:"28";s:19:"SECTION_LEFT_MARGIN";s:3:"324";s:20:"SECTION_RIGHT_MARGIN";s:3:"335";s:8:"OFFER_ID";i:16723;}s:5:"VIDEO";N;s:9:"LINK_SALE";N;s:13:"LINK_SERVICES";N;s:14:"ID_OFFER_GROUP";s:29:"bx_117848907_16723_set_group_";s:6:"STR_ID";s:20:"obbx_117848907_16723";s:15:"CHARACTERISTICS";b:0;}}s:6:"__view";a:4:{s:12:"TIZERS_BLOCK";a:1:{i:0;a:2:{i:0;s:5:"					";i:1;i:500;}}s:23:"PRODUCT_CUSTOM_TAB_INFO";a:1:{i:0;a:2:{i:0;s:656:"		<div>
+			<p>Дополнительная вкладка, для размещения информации о магазине, доставке или любого другого важного контента. Поможет вам ответить на интересующие покупателя вопросы и развеять его сомнения в покупке. Используйте её по своему усмотрению. </p>
+<p>Вы можете убрать её или вернуть обратно, изменив одну галочку в настройках компонента. Очень удобно. </p>		</div>
+	";i:1;i:500;}}s:18:"PRODUCT_PROPS_INFO";a:1:{i:0;a:2:{i:0;s:132:"							<table class="props_list nbg">
+							</table>
+			<table class="props_list nbg" id="bx_117848907_16723_sku_prop"></table>
+			";i:1;i:500;}}s:17:"PRODUCT_KIT_BLOCK";a:1:{i:0;a:2:{i:0;s:1:"	";i:1;i:500;}}}}}}';
+return true;
+?>

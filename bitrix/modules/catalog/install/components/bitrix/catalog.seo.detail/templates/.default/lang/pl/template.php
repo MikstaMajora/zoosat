@@ -1,0 +1,4 @@
+<?php
+$MESS["CSD_ELEMENT_INFO_MESSAGE_HELP_LINK_TITLE"] = "Dowiedz się więcej";
+$MESS["CSD_LOWERCASE_CHECKBOX_INPUT_TITLE"] = "Zamień na małe litery";
+$MESS["CSD_WHITESPACE_CHARACTER_INPUT_TITLE"] = "Zamień spacje";

@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_next/components/bitrix/map.yandex.system/map/style.css" => "1617600572532",]; ?>

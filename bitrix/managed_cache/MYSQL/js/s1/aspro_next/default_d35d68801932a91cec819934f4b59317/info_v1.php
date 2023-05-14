@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_next/components/bitrix/catalog.section/catalog_list_birds/script.js" => "161760057242533",]; ?>

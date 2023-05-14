@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680764493';
+$dateexpire = '001680768093';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:13:{s:59:"tbl_iblock_el_search29da7dfe8e991a106bab6f2a2f4177e5_filter";a:1:{s:4:"rows";s:2:"id";}s:59:"tbl_iblock_el_search2f8b0a5b2983a8b0b39dcc46f3479c8a_filter";a:1:{s:4:"rows";s:25:"id,sec,date,chn,p325,p336";}s:59:"tbl_iblock_el_search3c8ecdd73f0cb9ad7e70a37b972b7fa0_filter";a:1:{s:4:"rows";s:17:"IBLOCK_ID,tit,act";}s:59:"tbl_iblock_el_search4cb21d29d57d16152f8fff8eb3a2c07a_filter";a:1:{s:4:"rows";s:10:"id,sec,tit";}s:59:"tbl_iblock_el_search94a62894fcee73cbc47404b07d47d5ec_filter";a:1:{s:4:"rows";s:10:"id,sec,tit";}s:59:"tbl_iblock_el_searchd5714979219c67935eaed31c9a9429ca_filter";a:1:{s:4:"rows";s:10:"id,sec,tit";}s:59:"tbl_iblock_el_searche00cd9f46f81cd4003798bf144a92f04_filter";a:1:{s:4:"rows";s:2:"id";}s:65:"tbl_iblock_section_search_e2dc6c48c56de466f6d13781796abf3d_filter";a:1:{s:4:"rows";s:16:"IBLOCK_ID,miss-0";}s:50:"tbl_product_search_discount_rules_iblock_28_filter";a:1:{s:4:"rows";s:29:"find_code,find_active,find_id";}s:47:"tbl_product_search_preset_edit_iblock_28_filter";a:1:{s:4:"rows";s:29:"find_code,find_active,find_id";}s:21:"tbl_sale_order_filter";a:1:{s:4:"rows";s:78:"filter_universal,filter_status,filter_canceled,filter_price,filter_date_insert";}s:30:"vkapi_market_album_list_filter";a:1:{s:4:"rows";s:1:"0";}s:51:"vkapi_market_condition_iblock_section_search_filter";a:1:{s:4:"rows";s:9:"IBLOCK_ID";}}}';
+return true;
+?>

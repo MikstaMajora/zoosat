@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680937289';
+$dateexpire = '001680940889';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:45731;a:16:{s:2:"ID";s:5:"45731";s:11:"TIMESTAMP_X";s:19:"08.04.2023 01:53:55";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:4:"6218";s:12:"CONTENT_TYPE";s:9:"text/html";s:6:"SUBDIR";s:10:"iblock/b49";s:9:"FILE_NAME";s:36:"bda5h0arv9np3lfq3be0pzd9mxc4k78s.htm";s:13:"ORIGINAL_NAME";s:21:"1Описание.htm";s:11:"DESCRIPTION";s:17:"1Описание";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"0c96cfb876762ab6e4b43f8453d270ea";s:19:"VERSION_ORIGINAL_ID";s:0:"";s:4:"META";s:0:"";s:3:"SRC";s:55:"/upload/iblock/b49/bda5h0arv9np3lfq3be0pzd9mxc4k78s.htm";}i:45735;a:16:{s:2:"ID";s:5:"45735";s:11:"TIMESTAMP_X";s:19:"25.08.2021 01:39:23";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:1:"0";s:5:"WIDTH";s:1:"0";s:9:"FILE_SIZE";s:3:"521";s:12:"CONTENT_TYPE";s:9:"text/html";s:6:"SUBDIR";s:10:"iblock/942";s:9:"FILE_NAME";s:36:"flokai6e72dug1a3yfkml15rdpuszb2z.htm";s:13:"ORIGINAL_NAME";s:21:"1Описание.htm";s:11:"DESCRIPTION";s:17:"1Описание";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"86b5bf360aca0b5304ad16eacc1e35f5";s:19:"VERSION_ORIGINAL_ID";s:0:"";s:4:"META";s:0:"";s:3:"SRC";s:55:"/upload/iblock/942/flokai6e72dug1a3yfkml15rdpuszb2z.htm";}}}';
+return true;
+?>

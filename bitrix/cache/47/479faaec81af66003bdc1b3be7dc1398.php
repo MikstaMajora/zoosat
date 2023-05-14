@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001678715048';
+$dateexpire = '001678758248';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:3:"SEL";a:0:{}s:6:"VIEWED";a:5:{i:0;a:6:{s:10:"ELEMENT_ID";s:5:"23891";s:10:"PRODUCT_ID";s:5:"23891";s:10:"VIEW_COUNT";s:2:"61";s:4:"NAME";s:22:"АГИФЛАЙ, 25 г.";s:5:"PRICE";s:6:"164.00";s:8:"CURRENCY";s:3:"RUB";}i:1;a:6:{s:10:"ELEMENT_ID";s:5:"21591";s:10:"PRODUCT_ID";s:5:"21591";s:10:"VIEW_COUNT";s:2:"19";s:4:"NAME";s:81:"FITODOC МАКС спрей для собак репеллентный, 100 мл.";s:5:"PRICE";s:6:"519.00";s:8:"CURRENCY";s:3:"RUB";}i:2;a:6:{s:10:"ELEMENT_ID";s:5:"20543";s:10:"PRODUCT_ID";s:5:"20543";s:10:"VIEW_COUNT";s:2:"17";s:4:"NAME";s:53:"АНАНДИН инъекционный 10%, 10 мл.";s:5:"PRICE";s:6:"343.00";s:8:"CURRENCY";s:3:"RUB";}i:3;a:6:{s:10:"ELEMENT_ID";s:5:"21404";s:10:"PRODUCT_ID";s:5:"21404";s:10:"VIEW_COUNT";s:2:"16";s:4:"NAME";s:46:"СУРОЛАН ушные капли, 15 мл.";s:5:"PRICE";s:7:"1090.00";s:8:"CURRENCY";s:3:"RUB";}i:4;a:6:{s:10:"ELEMENT_ID";s:5:"21519";s:10:"PRODUCT_ID";s:5:"21519";s:10:"VIEW_COUNT";s:2:"15";s:4:"NAME";s:111:"Бирка ушная двойная для свиней 47*40мм без номера, ЖЁЛТАЯ, 100 шт.";s:5:"PRICE";s:7:"2800.00";s:8:"CURRENCY";s:3:"RUB";}}}}';
+return true;
+?>

@@ -1,0 +1,29 @@
+<?
+$MESS["LANDING_TPL_ACCESS_ASK_DESCRIPTION_KNOWLEDGE"] = "Invia una richiesta a uno degli utenti per ottenere l'accesso in lettura a questa knowledge base.";
+$MESS["LANDING_TPL_ACCESS_ASK_HEADER_KNOWLEDGE"] = "Questa knowledge base è privata";
+$MESS["LANDING_TPL_ACCESS_ASK_SEND_KNOWLEDGE"] = "Richiedi accesso";
+$MESS["LANDING_TPL_ACCESS_ASK_TITLE_KNOWLEDGE"] = "Richiesta di accesso";
+$MESS["LANDING_TPL_COPY_FULL"] = "Con tecnologia #LOGO# &mdash; Siti web gratuiti e CRM.";
+$MESS["LANDING_TPL_COPY_FULL2"] = "Con tecnologia <linklogo>#LOGO#</linklogo> &mdash; <linksite>Siti web</linksite> e <linkcrm>CRM gratuiti</linkcrm>. <linkcreate>Crea il tuo sito</linkcreate>";
+$MESS["LANDING_TPL_COPY_LINK"] = "Crea il tuo sito";
+$MESS["LANDING_TPL_COPY_NAME"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_NAME_0"] = "Con tecnologia";
+$MESS["LANDING_TPL_COPY_NAME_SMN_0"] = "Con tecnologia";
+$MESS["LANDING_TPL_COPY_NAME_SMN_1"] = "Bitrix24";
+$MESS["LANDING_TPL_COPY_REVIEW"] = "Siti Web gratuiti e CRM.";
+$MESS["LANDING_TPL_EDIT_PAGE"] = "Modifica pagina";
+$MESS["LANDING_TPL_EDIT_PAGE_GROUP"] = "Modifica articolo";
+$MESS["LANDING_TPL_EDIT_PAGE_KNOWLEDGE"] = "Modifica articolo";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_ASK"] = "Invia richiesta";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_GROUP"] = "Visualizza gruppo di lavoro";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_GROUP"] = "Diventa un membro del gruppo di lavoro o invia una richiesta di iscrizione nella #LINK1#pagina profilo del gruppo di lavoro#LINK2#.";
+$MESS["LANDING_TPL_ERROR_NOT_ALLOWED_NOTE_KNOWLEDGE"] = "Invia una richiesta a uno degli utenti per accedere a questa knowledge base.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE"] = "Nulla, non riusciamo ancora a trovarlo. Controlla di nuovo il tuo indirizzo.";
+$MESS["LANDING_TPL_ERROR_NOT_FOUND_NOTE_KNOWLEDGE"] = "Prova a trovare una knowledge base di cui hai bisogno #LINK1#nell'elenco#LINK2#";
+$MESS["LANDING_TPL_SETTINGS_BUTTON_TITLE"] = "Impostazioni";
+$MESS["LANDING_TPL_SITES"] = "Miei siti";
+$MESS["LANDING_TPL_SITES_GROUP"] = "Knowledge base";
+$MESS["LANDING_TPL_SITES_KNOWLEDGE"] = "Knowledge base";
+$MESS["LANDING_TPL_SITES_STORE"] = "Miei store";
+$MESS["LANDING_TPL_TITLE"] = "Sito web";
+?>

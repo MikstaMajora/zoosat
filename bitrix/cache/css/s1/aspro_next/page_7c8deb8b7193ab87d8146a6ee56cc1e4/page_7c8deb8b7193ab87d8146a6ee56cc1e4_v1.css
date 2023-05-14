@@ -1,0 +1,10 @@
+
+
+/* Start:/bitrix/templates/aspro_next/components/bitrix/system.auth.changepasswd/main/style.css?1617600572446*/
+div.bx-auth input.bx-auth-input {vertical-align:middle;}
+div.bx-auth span.bx-auth-secure {background-color:#FFFAE3; border:1px solid #DEDBC8; padding:2px; display:inline-block; vertical-align:middle;}
+div.bx-auth div.bx-auth-secure-icon {background-image:url(/bitrix/templates/aspro_next/components/bitrix/system.auth.changepasswd/main/images/sec.png); background-repeat:no-repeat; background-position:center; width:19px; height:18px;}
+div.bx-auth div.bx-auth-secure-unlock {background-image:url(/bitrix/templates/aspro_next/components/bitrix/system.auth.changepasswd/main/images/sec-unlocked.png);}
+
+/* End */
+/* /bitrix/templates/aspro_next/components/bitrix/system.auth.changepasswd/main/style.css?1617600572446 */

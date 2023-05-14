@@ -1,0 +1,288 @@
+
+05.04.2021 08:23:32 START UPDATE 1.0.0 -> 1.0.1
+
+
+05.04.2021 08:23:35 START UPDATE 1.0.1 -> 1.0.2
+
+
+05.04.2021 08:23:38 START UPDATE 1.0.2 -> 1.0.3
+
+
+05.04.2021 08:23:40 START UPDATE 1.0.3 -> 1.0.4
+
+
+05.04.2021 08:23:43 START UPDATE 1.0.4 -> 1.0.5
+
+
+05.04.2021 08:23:47 START UPDATE 1.0.5 -> 1.0.6
+
+
+05.04.2021 08:23:53 START UPDATE 1.0.6 -> 1.0.7
+
+
+05.04.2021 08:23:59 START UPDATE 1.0.7 -> 1.0.8
+
+
+05.04.2021 08:24:02 START UPDATE 1.0.8 -> 1.0.9
+
+
+05.04.2021 08:24:05 START UPDATE 1.0.9 -> 1.0.10
+
+
+05.04.2021 08:24:09 START UPDATE 1.0.10 -> 1.0.11
+
+
+05.04.2021 08:24:12 START UPDATE 1.0.11 -> 1.0.12
+
+
+05.04.2021 08:24:17 START UPDATE 1.0.12 -> 1.1.0
+
+
+05.04.2021 08:24:20 START UPDATE 1.1.0 -> 1.1.1
+
+
+05.04.2021 08:24:25 START UPDATE 1.1.1 -> 1.1.2
+
+
+05.04.2021 08:24:29 START UPDATE 1.1.2 -> 1.1.3
+
+
+05.04.2021 08:24:34 START UPDATE 1.1.3 -> 1.1.4
+
+
+05.04.2021 08:24:38 START UPDATE 1.1.4 -> 1.1.5
+
+
+05.04.2021 08:24:41 START UPDATE 1.1.5 -> 1.1.6
+
+
+05.04.2021 08:24:45 START UPDATE 1.1.6 -> 1.1.7
+
+
+05.04.2021 08:24:49 START UPDATE 1.1.7 -> 1.2.0
+
+
+05.04.2021 08:24:54 START UPDATE 1.2.0 -> 1.2.1
+
+
+05.04.2021 08:24:56 START UPDATE 1.2.1 -> 1.2.9
+
+
+05.04.2021 08:24:58 START UPDATE 1.2.9 -> 1.3.0
+
+
+05.04.2021 08:25:02 START UPDATE 1.3.0 -> 1.3.1
+
+
+05.04.2021 08:25:07 START UPDATE 1.3.1 -> 1.4.0
+
+
+05.04.2021 08:25:12 START UPDATE 1.4.0 -> 1.4.1
+
+
+05.04.2021 08:25:15 START UPDATE 1.4.1 -> 1.4.2
+
+
+05.04.2021 08:25:19 START UPDATE 1.4.2 -> 1.4.3
+
+05.04.2021 08:25:21 copy lib
+
+05.04.2021 08:25:23 START UPDATE 1.4.3 -> 1.4.4
+
+
+05.04.2021 08:25:27 START UPDATE 1.4.4 -> 1.4.5
+
+
+05.04.2021 08:25:31 START UPDATE 1.4.5 -> 1.4.6
+
+05.04.2021 08:25:33 copy lib
+
+05.04.2021 08:25:35 START UPDATE 1.4.6 -> 1.4.7
+
+
+05.04.2021 08:25:38 START UPDATE 1.4.7 -> 1.5.0
+
+
+05.04.2021 08:25:44 START UPDATE 1.5.0 -> 1.5.1
+
+
+05.04.2021 08:25:47 START UPDATE 1.5.1 -> 1.5.2
+
+
+05.04.2021 08:25:50 START UPDATE 1.5.2 -> 1.6.0
+
+
+05.04.2021 08:25:53 START UPDATE 1.6.0 -> 1.6.1
+
+
+05.04.2021 08:25:56 START UPDATE 1.6.1 -> 1.6.2
+
+
+05.04.2021 08:25:59 START UPDATE 1.6.2 -> 1.6.3
+
+
+05.04.2021 08:26:02 START UPDATE 1.6.3 -> 1.7.0
+
+
+05.04.2021 08:26:06 START UPDATE 1.7.0 -> 1.7.1
+
+
+05.04.2021 08:26:09 START UPDATE 1.7.1 -> 1.7.2
+
+
+05.04.2021 08:26:12 START UPDATE 1.7.2 -> 1.7.3
+
+
+05.04.2021 08:26:16 START UPDATE 1.7.3 -> 1.7.4
+
+
+05.04.2021 08:26:19 START UPDATE 1.7.4 -> 1.7.5
+
+
+05.04.2021 08:26:22 START UPDATE 1.7.5 -> 1.7.6
+
+
+05.04.2021 08:26:27 START UPDATE 1.7.6 -> 1.7.7
+
+
+05.04.2021 08:26:33 START UPDATE 1.7.7 -> 1.7.8
+
+05.04.2021 08:26:36 FINISH UPDATE 1.7.7 -> 1.7.8
+
+
+05.04.2021 08:26:38 START UPDATE 1.7.8 -> 1.7.9
+
+05.04.2021 08:26:41 FINISH UPDATE 1.7.8 -> 1.7.9
+
+
+05.04.2021 08:26:43 START UPDATE 1.7.9 -> 1.7.10
+
+05.04.2021 08:26:46 FINISH UPDATE 1.7.9 -> 1.7.10
+
+
+05.04.2021 08:26:48 START UPDATE 1.7.10 -> 1.7.11
+
+05.04.2021 08:26:50 FINISH UPDATE 1.7.10 -> 1.7.11
+
+
+05.04.2021 08:26:53 START UPDATE 1.7.11 -> 1.7.12
+
+05.04.2021 08:26:55 FINISH UPDATE 1.7.11 -> 1.7.12
+
+
+05.04.2021 08:26:57 START UPDATE 1.7.12 -> 1.8.0
+
+05.04.2021 08:27:00 FINISH UPDATE 1.7.12 -> 1.8.0
+
+
+05.04.2021 08:27:03 START UPDATE 1.8.0 -> 1.8.1
+
+05.04.2021 08:27:06 FINISH UPDATE 1.8.0 -> 1.8.1
+
+
+05.04.2021 08:27:08 START UPDATE 1.8.1 -> 1.8.2
+
+05.04.2021 08:27:11 FINISH UPDATE 1.8.1 -> 1.8.2
+
+
+05.04.2021 08:27:13 START UPDATE 1.8.2 -> 1.8.3
+
+05.04.2021 08:27:15 FINISH UPDATE 1.8.2 -> 1.8.3
+
+
+05.04.2021 08:27:17 START UPDATE 1.8.3 -> 1.8.4
+
+05.04.2021 08:27:19 FINISH UPDATE 1.8.3 -> 1.8.4
+
+
+05.04.2021 08:27:21 START UPDATE 1.8.4 -> 1.8.5
+
+05.04.2021 08:27:24 FINISH UPDATE 1.8.4 -> 1.8.5
+
+
+05.04.2021 08:27:25 START UPDATE 1.8.5 -> 1.8.6
+
+05.04.2021 08:27:27 FINISH UPDATE 1.8.5 -> 1.8.6
+
+
+05.04.2021 08:27:29 START UPDATE 1.8.6 -> 1.8.7
+
+05.04.2021 08:27:32 FINISH UPDATE 1.8.6 -> 1.8.7
+
+
+29.06.2021 12:38:50 START UPDATE 1.8.7 -> 1.8.8
+
+29.06.2021 12:38:55 Update /ajax/js_item_detail.php
+29.06.2021 12:38:55 Update /indexblocks_index1.php
+29.06.2021 12:38:55 Update /indexblocks_index2.php
+29.06.2021 12:38:55 Update /indexblocks_index3.php
+29.06.2021 12:38:55 Update /indexblocks_index4.php
+29.06.2021 12:38:55 add /include/mainpage/comp_map.php
+29.06.2021 12:38:55 FINISH UPDATE 1.8.7 -> 1.8.8
+
+
+10.09.2021 09:27:20 START UPDATE 1.8.8 -> 1.8.9
+
+10.09.2021 09:27:27 Update /ajax/auth.php
+10.09.2021 09:27:27 FINISH UPDATE 1.8.8 -> 1.8.9
+
+
+03.11.2021 10:16:29 START UPDATE 1.8.9 -> 1.8.10
+
+03.11.2021 10:16:35 Update /services/.left.menu_ext.php
+03.11.2021 10:16:35 FINISH UPDATE 1.8.9 -> 1.8.10
+
+
+27.12.2021 09:03:38 START UPDATE 1.8.10 -> 1.8.11
+
+27.12.2021 09:03:42 Update /include/comp_basket_bigdata.php in s1
+27.12.2021 09:03:42 Rewrite /ajax/form.php in s1
+27.12.2021 09:03:42 FINISH UPDATE 1.8.10 -> 1.8.11
+
+
+27.12.2021 09:03:44 START UPDATE 1.8.11 -> 1.8.12
+
+27.12.2021 09:03:48 Update footer.php
+27.12.2021 09:03:48 update bitrix:catalog.bigdata.products
+27.12.2021 09:03:48 Update /include/comp_basket_bigdata.php in s1
+27.12.2021 09:03:48 Rewrite /ajax/form.php in s1
+27.12.2021 09:03:48 Rewrite /ajax/marketing.php in s1
+27.12.2021 09:03:48 Rewrite /include/footer/bottom_footer.php in s1
+27.12.2021 09:03:56 FINISH UPDATE 1.8.11 -> 1.8.12
+
+
+27.01.2022 09:33:38 START UPDATE 1.8.12 -> 1.8.13
+
+27.01.2022 09:33:44 Rewrite /ajax/fast_view.php in s1
+27.01.2022 09:33:44 Rewrite /ajax/fastViewNav.php in s1
+27.01.2022 09:33:44 FINISH UPDATE 1.8.12 -> 1.8.13
+
+
+10.03.2022 13:19:01 START UPDATE 1.8.13 -> 1.8.14
+
+10.03.2022 13:19:08 Update /contacts/page_contacts_1.php in s1
+10.03.2022 13:19:08 Update /contacts/page_contacts_2.php in s1
+10.03.2022 13:19:08 Update /include/contacts-site-map.php in s1
+10.03.2022 13:19:08 Update /include/left_block/comp_news.php in s1
+10.03.2022 13:19:08 Update /include/news.detail.products_block.php in s1
+10.03.2022 13:19:08 Update /include/news.detail.products_slider.php in s1
+10.03.2022 13:19:08 Rewrite /ajax/productStoreAmount.php in s1
+10.03.2022 13:19:08 Rewrite /include/contacts-site-map-google.php in s1
+10.03.2022 13:19:08 FINISH UPDATE 1.8.13 -> 1.8.14
+
+
+10.03.2022 13:19:09 START UPDATE 1.8.14 -> 1.8.15
+
+10.03.2022 13:19:12 Rewrite /contacts/page_contacts_2.php in s1
+10.03.2022 13:19:12 FINISH UPDATE 1.8.14 -> 1.8.15
+
+
+22.03.2022 09:14:56 START UPDATE 1.8.15 -> 1.8.16
+
+22.03.2022 09:15:05 Deleted /var/www/www-root/data/www/zoosat.website/bitrix/templates/aspro_next/js/jquery.dotdotdot.js
+22.03.2022 09:15:05 Deleted /var/www/www-root/data/www/zoosat.website/bitrix/templates/aspro_next/js/jquery.dotdotdot.min.js
+22.03.2022 09:15:05 Rewrite /ajax/showBasketHover.php in s1
+22.03.2022 09:15:05 Rewrite /include/mainpage/comp_catalog_ajax.php in s1
+22.03.2022 09:15:05 Rewrite /include/menu/menu.cabinet_dropdown.php in s1
+22.03.2022 09:15:06 FINISH UPDATE 1.8.15 -> 1.8.16
+

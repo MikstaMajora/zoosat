@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/uniqcle/component.viavet/templates/main/script.js" => "16498349821413",]; ?>

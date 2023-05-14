@@ -1,0 +1,22 @@
+<?php
+$MESS["CANCEL_CONDUCT_BUTTON"] = "Annulla elaborazione";
+$MESS["CONDUCT_BUTTON"] = "Elabora";
+$MESS["DOCUMENT_ADD_CONTRACTOR"] = "Crea fornitore:";
+$MESS["DOCUMENT_ADD_CONTRACTOR_ERROR"] = "Errore durante la creazione del fornitore";
+$MESS["DOCUMENT_CONDUCT_SUCCESSFUL"] = "Elemento elaborato correttamente";
+$MESS["DOCUMENT_CONDUCT_SUCCESSFUL_VIEW"] = "Visualizza";
+$MESS["DOCUMENT_CONTRACTOR_FIELD_PLACEHOLDER"] = "Trova o crea un fornitore";
+$MESS["DOCUMENT_CONTRACTOR_NOT_FILLED"] = "vuoto";
+$MESS["DOCUMENT_FIRST_TIME_HINT_TEXT"] = "Inizia creando una nuova rettifica di giacenza per le merci attualmente stoccate in magazzino; registra i prodotti e la giacenza attuale. Puoi modificare il tipo di operazione qui se desideri creare una nuova ricevuta di giacenza.";
+$MESS["DOCUMENT_FIRST_TIME_HINT_TITLE"] = "Tipo di documento";
+$MESS["DOCUMENT_LINK_COPIED"] = "Il link dell'oggetto dell'inventario è stato copiato negli Appunti";
+$MESS["DOCUMENT_PRODUCTS_ADD_PRODUCT"] = "Prodotti aggiunti";
+$MESS["DOCUMENT_PRODUCTS_NOT_SHOWN"] = "#COUNT# altri";
+$MESS["DOCUMENT_PRODUCTS_TOTAL"] = "Totale";
+$MESS["FEEDBACK_BUTTON_TITLE"] = "Feedback";
+$MESS["SAVE_AND_CONDUCT_BUTTON"] = "Salva ed elabora";
+$MESS["SLIDER_LABEL_A"] = "Ricevuta di rimanenza a magazzino";
+$MESS["SLIDER_LABEL_D"] = "Storno";
+$MESS["SLIDER_LABEL_M"] = "Trasferisci";
+$MESS["SLIDER_LABEL_S"] = "Adeguamento rimanenza a magazzino";
+$MESS["SLIDER_LABEL_W"] = "Ordini di vendita";

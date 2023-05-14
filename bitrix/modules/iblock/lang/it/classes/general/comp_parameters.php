@@ -1,0 +1,19 @@
+<?php
+$MESS["IB_COMPLIB_POPUP_CATALOG_STORE_LIST"] = "Magazzini";
+$MESS["IB_COMPLIB_POPUP_IBLOCK"] = "Campi blocco informazioni";
+$MESS["IB_COMPLIB_POPUP_IBLOCK_CODE"] = "Codice mnemonico blocco di informaz.";
+$MESS["IB_COMPLIB_POPUP_IBLOCK_NAME"] = "Nome blocco informazioni";
+$MESS["IB_COMPLIB_POPUP_IBLOCK_TEXT"] = "Descrizione blocco informazioni";
+$MESS["IB_COMPLIB_POPUP_MISC"] = "Altro";
+$MESS["IB_COMPLIB_POPUP_PARENT"] = "Campi genitore";
+$MESS["IB_COMPLIB_POPUP_PARENT_CODE"] = "Codice simbolico genitore";
+$MESS["IB_COMPLIB_POPUP_PARENT_NAME"] = "Nome genitore";
+$MESS["IB_COMPLIB_POPUP_PARENT_TEXT"] = "Descrizione genitore";
+$MESS["IB_COMPLIB_POPUP_SECTION"] = "Campi di sezione";
+$MESS["IB_COMPLIB_POPUP_SECTIONS_PATH"] = "Percorso elemento corrente";
+$MESS["IB_COMPLIB_POPUP_SECTION_CODE"] = "Codice mnemonico sezione";
+$MESS["IB_COMPLIB_POPUP_SECTION_LOWER_NAME"] = "Nome della sezione corrente, minuscolo";
+$MESS["IB_COMPLIB_POPUP_SECTION_NAME"] = "Nome della sezione corrente";
+$MESS["IB_COMPLIB_POPUP_SECTION_PREVIEW_TEXT"] = "Descrizione della sezione corrente";
+$MESS["IB_COMPLIB_POPUP_STORE"] = "Magazzini";
+$MESS["IB_COMPLIB_POPUP_STORE_LIST"] = "Magazzini";

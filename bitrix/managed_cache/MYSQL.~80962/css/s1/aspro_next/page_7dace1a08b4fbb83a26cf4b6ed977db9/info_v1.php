@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_next/css/animation/animate.min.css" => "161760057152789",]; ?>

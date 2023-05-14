@@ -1,0 +1,170 @@
+.banner-cat{
+    margin-bottom: 50px;
+}
+.viavetis{
+    width: 329px;
+    height: 44px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    color: #3A3A3A;
+}
+.viavetis-left{
+    margin-top: 80px;
+}
+.viavet-istxt{
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #848484;
+}
+.mission-org{
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 60px 5px rgba(174, 174, 174, 0.25);
+    border-radius: 5px;
+    padding: 47px;
+}
+.viavetmission-row{
+    margin-bottom: 70px !important;
+}
+.viavetmission{
+    width: 100%;
+    height: 33px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    color: #7AA3E4;
+}
+.viavetmission-txt{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #848484;
+}
+.viavet-mission-lapa{
+    margin-left: 33%;
+}
+.tasks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.tasks-wanna{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #848484;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.tasks-wanna .tasks-wanna-1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.tasks-wanna .tasks-wanna-2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    width: 100%;
+    color: #3A3A3A;
+}
+.btn-viavet{
+    width: 184px;
+    height: 46px;
+    background: #112A77;
+    border-radius: 5px;
+}
+.btn-viavet span{
+    width: 87px;
+    height: 33px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+.viavet-contacts{
+    width: 100%;
+    height: 100%;
+    background: #F3F8FF;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.viavet-contacts-1{
+    width: 324px;
+    height: 100%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    color: #848484;
+    margin-bottom: 5px;
+}
+.viavet-contacts-2{
+    width: 318px;
+    height: 100%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #848484;
+    margin-bottom: 7px;
+}
+.viavet-contacts-3{
+    width: 217px;
+    height: 100%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #848484;
+}
+.viavet-bold{
+    font-weight: 700;
+}
+.viavet-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 40px;
+}
+.copied-promocod-viavet{
+    width: 450px;
+    height: 46px;
+    background: #112A77;
+    border-radius: 5px;
+    color: white;
+}

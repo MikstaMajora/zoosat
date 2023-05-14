@@ -1,0 +1,27 @@
+<?php
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_1"] = "Abilita la gestione dell'inventario";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_2"] = "Disabilita la gestione dell'inventario";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_3"] = "Abilita la gestione dell'inventario in Bitrix24";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_4"] = "Attiva le opzioni disponibili per lavorare con la gestione dell'inventario. Ogni opzione offre una configurazione, impostazioni iniziali e tipi di automazione specifici.";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_5"] = "Scopri di più";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_6"] = "Prossimamente";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_7"] = "on";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_8"] = "off";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_9"] = "Disabilita la gestione dell'inventario in Bitrix24";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_10"] = "Dipendenti di magazzino illimitati";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_12"] = "Annulla";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_13"] = "Ripristina giacenza";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_14"] = "Ripristina giacenza";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_15"] = "Ci sono prodotti con giacenza attuale diversa da zero. È necessario ripristinare i valori di giacenza prima di abilitare la gestione dell'inventario.";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_16"] = "È possibile aggiornare i valori di giacenza dopo aver abilitato la gestione dell'inventario.";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_17"] = "Abilita e migra i dati da altri sistemi";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_18"] = "Autorizzazioni insufficienti per abilitare la gestione dell'inventario";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_19"] = "Salva";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_CLOSE"] = "Chiudi";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_CONDUCTED_DOCUMENTS_EXIST"] = "Sono presenti oggetti dell'inventario elaborati. La gestione dell'inventario non può essere disabilitata finché questi oggetti dell'inventario esistono.";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_DISABLE"] = "Disattiva";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_DISABLE_CONFIRMATION_TEXT"] = "Sei sicuro di voler disabilitare la gestione dell'inventario?";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_DISABLE_POPUP_TITLE"] = "Disabilita la gestione dell'inventario";
+$MESS["CAT_WAREHOUSE_MASTER_CLEAR_ENABLED"] = "Gestione inventario abilitata";
+$MESS["CAT_WAREHOUSE_MASTER_STORE_LEAD_ENABLED_MODE_ERROR"] = "La gestione dell'inventario può essere utilizzata solo con la modalità \"CRM semplice\".";
+$MESS["CAT_WAREHOUSE_MASTER_STORE_ORDER_DEAL_MODE_ERROR"] = "La gestione dell'inventario non può essere utilizzata con la modalità \"Offerte e ordini\". Devi passare alla modalità \"Offerte \" per utilizzare la gestione dell'inventario.";

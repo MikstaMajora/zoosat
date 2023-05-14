@@ -1,0 +1,360 @@
+/*NOTE: This file is intended for programmers. Aspro technical support is not advised to work with him.*/
+
+/* Examples (uncomment to use):*/
+
+/* Expand site width */
+/* body .wrapper { max-width: 1400px !important;  } */
+
+/* Set site background image */
+/* body {  background: url(image_source) top no-repeat; }
+
+/* Hide compare button */
+/* a.compare_item { display: none !important;  }*/
+.catalog_item_wrapp{
+    height: 360px !important;
+}
+
+.header-v4 .logo_and_menu-row .wrap_icon{
+    padding-left: 17px !important;
+}
+
+.catalog_item_wrapp .item{
+    height: 420px !important;
+}
+
+.code_block{
+    margin-top: 10px;
+    font-size: 12px;
+    color: grey !important;
+
+}
+
+.code_block_section{
+    font-size: 12px;
+    color: grey !important;
+
+}
+
+.zavodchikam_block_element{
+    margin: 10px 0 10px 0;
+}
+
+.uslovia-img-banners{
+    margin-bottom: 30px;
+}
+
+.stickers_zavodchik_block{
+    left: 0;
+    top: -60px;
+    position: absolute;
+    z-index: 3;
+    line-height: 20px;
+    text-align: left;
+    padding-right: 50px;
+    font-size: 0;
+}
+
+.stickers_zavodchik_list{
+    left: -60px;
+    top: -60px;
+    position: absolute;
+    z-index: 3;
+    line-height: 20px;
+    text-align: left;
+    padding-right: 50px;
+    font-size: 0;
+}
+
+@media (max-width: 768px) {
+    /* Стили для устройств с шириной viewport, находящейся в диапазоне 768px - 991px */
+    .section-zvd-docs-ul{
+        margin-left: 0 !important;
+    }
+}
+
+
+.section-zvd-docs{
+    display: flex;
+}
+
+.section-zvd-docs-img{
+    margin-top: 50px;
+}
+.section-zvd-docs-ul{
+    margin-left: 60px;
+}
+.section-zvd-pamyantka{
+    display: flex;
+}
+
+.zvd-color-blue{
+    color: #1976d2;
+}
+
+.zvd-pereiti-catalog{
+    color: white;
+    display: inline-block;
+    background-color: #1976d2;
+    padding: 7px 10px;
+    font-size: 22px;
+}
+
+.search_wrap_zoosat{
+    width: 455px;
+    opacity: 1;
+    visibility: visible;
+}
+
+.top_social_zoosat{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.fly_icon{
+    display: block;
+    min-height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0.1rem white;
+}
+
+.fly_icon:after{
+    background: #e7edf2;
+    opacity: .2;
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.fly_icon:hover{
+    background: #ff7C4C !important;
+}
+
+.wish_count:hover{
+    background: #ff7C4C !important;
+}
+
+.fly_icon_href{
+    margin-top: 18px;
+}
+
+.fly_icon_phone{
+    width:20px;
+}
+
+.fly_icon_mail{
+    width: 20px;
+}
+.header-cart .basket_fly .opener{
+    background: #eb5f2a !important;
+}
+
+.birds-list-block{
+    display: flex;
+    flex-direction: row;
+}
+.btn-bird-order{
+    background-color: #1976d2;
+    border-color: #1976d2;
+    color: #ffffff;
+    width: 21rem;
+    height: 4rem;
+    padding: 5px 10px;
+}
+
+
+/*******************************************************************/
+/* Производители */
+/*******************************************************************/
+ul.manufact-ul{ margin-left: 5%; }
+.accordion{ list-style-type: none; }
+
+ul.accordion li::before {
+    content: "" !important;
+}
+
+.accordion {
+    width: 100%;
+    max-width: 100%;
+    margin: 30px auto 20px;
+    /*background: #fcfbf7;*/
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.accordion .link {
+    cursor: pointer;
+    display: block;
+    padding: 65px 15px 30px 42px;
+    color: #1a1a1a;
+    font-size: 14px;
+    font-weight: 700;
+    position: relative;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+.accordion li:last-child .link { border-bottom: 0; }
+
+.accordion li i {
+    position: absolute;
+    top: 16px;
+    left: 12px;
+    font-size: 18px;
+    color: #1a1a1a;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+
+.accordion li i.fa-chevron-down {
+    right: 12px;
+    left: auto;
+    font-size: 16px;
+}
+
+.accordion li.open .link { color: #872b2b; }
+
+.accordion li.open i { color: #872b2b; }
+
+.accordion li.open i.fa-chevron-down {
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+/**
+ * Submenu
+ -----------------------------*/
+
+
+.submenu {
+    display: none;
+    background: #fcfbf7;
+    font-size: 13px;
+    #text-align: center;
+    #padding-top: 3%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.submenu li { border-bottom: 1px solid #4E9CEA; }
+
+.submenu a {
+    display: inline-block;
+    background: #4E9CEA;
+    color: #FFF;
+    padding: 1px 12px;
+    text-decoration: none;
+    -webkit-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+}
+
+.submenu a:hover {
+    display: inline-block;
+    background: #4E9CEA;
+    color: #FFF;
+}
+
+.sibagro_barcode{
+    margin-bottom: 15px;
+}
+
+.sibagro_barcode img{
+    margin-top:16px;
+}
+
+.sibagro_barcode_value{
+    font-size: 15px;
+    font-weight: 700;
+    color: black;
+    margin-top: 10px;
+}
+
+
+
+.view_sale_block .quantity_block .values{
+    height: 43px !important;
+}
+body .ajax_load.block .view_sale_block .quantity_block .values{
+    overflow: hidden !important;
+}
+
+
+.stickers .sticker_rasprodazha{
+    background-color: orange; 
+}
+
+.stickers .sticker_populyarnye{
+    background-color: #157BBF;
+}
+
+.td-bg-green{
+    background-color:  black;
+    color:  white;
+}
+
+.table-bspacing{
+    border-spacing: 0px 0px;
+}
+
+.soa_order_suc1{
+    border: 3px solid #EB5F2A;
+    padding: 20px;
+}
+
+/* Кнопка подробнее на главной */
+.flexslider .banner_buttons{
+    margin-top: 240px !important;
+    margin-left: 105px !important;
+}
+
+.sale_icon_card{
+    top: 50px;
+    left: 380px;
+    position: absolute;
+    z-index: 30;
+    line-height: 20px;
+    text-align: left;
+    padding-right: 50px;
+    font-size: 0px;
+    width: 180px;
+}
+
+.sale_icon_block {
+    position: absolute;
+    z-index: 30;
+    top: 11px;
+    left: 166px;
+    width: 55px;
+}
+
+.sale_icon_list {
+    position: absolute;
+    z-index: 30;
+    top: 20px;
+    left: 150px;
+}
+
+.sale_icon_img{
+    width:65px;
+}
+
+.sale_icon_block_news {
+    position: absolute;
+    z-index: 30;
+    top: 17px;
+    left: 195px;
+    width: 55px;
+}

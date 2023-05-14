@@ -1,0 +1,2 @@
+<?php
+$MESS["CSD_ELEMENT_INFO_MESSAGE_HELP_LINK_TITLE"] = "En savoir plus";

@@ -1,0 +1,20 @@
+<?php
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_ALWAYS_ADD_DEAL"] = "Crea sempre una nuova offerta anche se è presente un'offerta o un lead attivo";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_ALWAYS_ADD_HINT"] = "Se la casella è deselezionata, il sistema controllerà se un contatto o un'azienda <br>ha un'offerta o un lead attivo.";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_ALWAYS_ADD_LEAD"] = "Crea sempre un nuovo lead anche se è presente un'offerta o un lead attivo";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_ASSIGNED_BY"] = "Assegna a";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_ASSIGNED_BY_HINT"] = "Seleziona dipendenti <br>per elaborare i lead creati.";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_CHECK_WORK_TIME"] = "Utilizza solo i dipendenti con ora di entrata registrata e non in pausa.";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_CHECK_WORK_TIME_HINT"] = "Se la coda è composta solo da utenti che non hanno iniziato il giorno o sono in pausa, verrà utilizzato il primo in coda.";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_COMMENT"] = "Descrizione";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_COMMENT_HINT"] = "Inserisci una descrizione dell'assegnazione che <br>un responsabile deve svolgere <br>durante l'elaborazione di lead e offerte ripetuti.";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_CREATE_FROM_PREVIOUS"] = "Crea ordine da offerta precedente";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_DEAL_CATEGORY_ID"] = "Pipeline offerte";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_DEAL_CATEGORY_ID_LAST"] = "Usa ultima pipeline offerte";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_DEAL_DAYS_AGO"] = "Età dell'ordine, giorni";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_TITLE_DEAL"] = "Nome nuova offerta";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_TITLE_DEAL_DEF"] = "Offerta di %date%";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_TITLE_LEAD"] = "Nome nuovo lead";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_CONFIG_TITLE_LEAD_DEF"] = "Lead ripetuto di %date%";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_NAME_DEAL"] = "Offerte ripetute";
+$MESS["SENDER_INTEGRATION_CRM_RC_MESSAGE_NAME_LEAD"] = "Lead ripetuti";

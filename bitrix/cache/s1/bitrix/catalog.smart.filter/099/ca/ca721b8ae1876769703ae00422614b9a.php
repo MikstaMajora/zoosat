@@ -1,0 +1,121 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680931171';
+$dateexpire = '001684531171';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:10:{s:12:"FACET_FILTER";a:2:{s:11:"ACTIVE_DATE";s:1:"Y";s:17:"CHECK_PERMISSIONS";s:1:"Y";}s:5:"COMBO";a:0:{}s:6:"PRICES";a:1:{s:4:"BASE";a:11:{s:2:"ID";i:1;s:4:"CODE";s:4:"BASE";s:4:"SORT";i:100;s:4:"BASE";s:1:"Y";s:6:"XML_ID";s:36:"c663d1e2-429e-11e2-b89e-000c29567e00";s:5:"TITLE";s:27:"Розничная цена";s:6:"~TITLE";s:27:"Розничная цена";s:6:"SELECT";s:15:"CATALOG_GROUP_1";s:15:"SELECT_EXTENDED";a:3:{i:0;s:7:"PRICE_1";i:1;s:10:"CURRENCY_1";i:2;s:14:"SCALED_PRICE_1";}s:8:"CAN_VIEW";b:1;s:7:"CAN_BUY";b:1;}}s:14:"PROPERTY_COUNT";i:11;s:16:"PROPERTY_ID_LIST";a:11:{i:0;i:326;i:1;i:327;i:2;i:325;i:3;i:361;i:4;i:335;i:5;i:336;i:6;i:337;i:7;i:338;i:8;i:339;i:9;i:340;i:10;i:341;}s:5:"ITEMS";a:12:{i:326;a:12:{s:2:"ID";s:3:"326";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:8:"SVOYSTVO";s:5:"~NAME";s:16:"Свойство";s:4:"NAME";s:16:"Свойство";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:0:{}}i:327;a:12:{s:2:"ID";s:3:"327";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:8:"MATERIAL";s:5:"~NAME";s:16:"Материал";s:4:"NAME";s:16:"Материал";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:0:{}}i:325;a:12:{s:2:"ID";s:3:"325";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:17:"CML2_MANUFACTURER";s:5:"~NAME";s:26:"Производитель";s:4:"NAME";s:26:"Производитель";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";N;s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:15:{i:3118;a:12:{s:10:"CONTROL_ID";s:31:"NEXT_SMART_FILTER_325_137148632";s:12:"CONTROL_NAME";s:31:"NEXT_SMART_FILTER_325_137148632";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:137148632;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:6:"DOGMAN";s:4:"SORT";i:500;s:5:"UPPER";s:6:"DOGMAN";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"bcce501f-ecd3-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3118";s:13:"ELEMENT_COUNT";s:2:"10";}i:3068;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_1185891368";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_1185891368";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:1185891368;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:8:"FERPLAST";s:4:"SORT";i:500;s:5:"UPPER";s:8:"FERPLAST";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"c07b8285-0061-11ea-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3068";s:13:"ELEMENT_COUNT";s:1:"4";}i:3060;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_1215613978";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_1215613978";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:1215613978;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:10:"REDPLASTIC";s:4:"SORT";i:500;s:5:"UPPER";s:10:"REDPLASTIC";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"ca253d4f-ea71-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3060";s:13:"ELEMENT_COUNT";s:1:"7";}i:3759;a:12:{s:10:"CONTROL_ID";s:31:"NEXT_SMART_FILTER_325_533344760";s:12:"CONTROL_NAME";s:31:"NEXT_SMART_FILTER_325_533344760";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:533344760;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:6:"STEFAN";s:4:"SORT";i:500;s:5:"UPPER";s:6:"STEFAN";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"37e50d8e-9de8-11ed-81ea-ae05248502c1";s:11:"FACET_VALUE";s:4:"3759";s:13:"ELEMENT_COUNT";s:1:"7";}i:3131;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_1137074942";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_1137074942";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:1137074942;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:11:"STEFANPLAST";s:4:"SORT";i:500;s:5:"UPPER";s:11:"STEFANPLAST";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"0875b5e7-ea6d-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3131";s:13:"ELEMENT_COUNT";s:1:"2";}i:3115;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_1990050917";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_1990050917";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:1990050917;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:6:"TRIXIE";s:4:"SORT";i:500;s:5:"UPPER";s:6:"TRIXIE";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"a2e2aa20-e836-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3115";s:13:"ELEMENT_COUNT";s:1:"1";}i:3148;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_1968917661";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_1968917661";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:1968917661;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:21:"АЛЁШКИН КОТ";s:4:"SORT";i:500;s:5:"UPPER";s:21:"АЛЁШКИН КОТ";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"4dc2db3a-fbce-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3148";s:13:"ELEMENT_COUNT";s:1:"3";}i:3143;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_3800667413";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_3800667413";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:3800667413;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:24:"АЛЬТЕРНАТИВА";s:4:"SORT";i:500;s:5:"UPPER";s:24:"АЛЬТЕРНАТИВА";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"1663baab-e90a-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3143";s:13:"ELEMENT_COUNT";s:2:"17";}i:3147;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_3856945420";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_3856945420";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:3856945420;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:8:"ВАКА";s:4:"SORT";i:500;s:5:"UPPER";s:8:"ВАКА";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"29467f32-0dea-11ea-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3147";s:13:"ELEMENT_COUNT";s:1:"2";}i:3059;a:12:{s:10:"CONTROL_ID";s:31:"NEXT_SMART_FILTER_325_444934013";s:12:"CONTROL_NAME";s:31:"NEXT_SMART_FILTER_325_444934013";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:444934013;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:36:"ДУНЬЯ ДОГУШ ПЛАСТИК";s:4:"SORT";i:500;s:5:"UPPER";s:36:"ДУНЬЯ ДОГУШ ПЛАСТИК";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"0117a7fc-e9a4-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3059";s:13:"ELEMENT_COUNT";s:1:"9";}i:3071;a:12:{s:10:"CONTROL_ID";s:31:"NEXT_SMART_FILTER_325_644402637";s:12:"CONTROL_NAME";s:31:"NEXT_SMART_FILTER_325_644402637";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:644402637;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:12:"ЗООНИК";s:4:"SORT";i:500;s:5:"UPPER";s:12:"ЗООНИК";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"e4daf75e-e83d-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3071";s:13:"ELEMENT_COUNT";s:1:"1";}i:3063;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_3514670496";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_3514670496";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:3514670496;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:22:"ЗООЭКСПРЕСС";s:4:"SORT";i:500;s:5:"UPPER";s:22:"ЗООЭКСПРЕСС";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"cbd4d331-e681-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"3063";s:13:"ELEMENT_COUNT";s:2:"13";}i:3197;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_1347039041";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_1347039041";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:1347039041;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:10:"ИДЕАЛ";s:4:"SORT";i:500;s:5:"UPPER";s:10:"ИДЕАЛ";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"c0607918-c0eb-11ea-80d0-945077d23bcc";s:11:"FACET_VALUE";s:4:"3197";s:13:"ELEMENT_COUNT";s:1:"4";}i:3717;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_2619267579";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_2619267579";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:2619267579;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:17:"СИМА-ЛЭНД";s:4:"SORT";i:500;s:5:"UPPER";s:17:"СИМА-ЛЭНД";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"7375cfc5-3594-11ed-80e0-f0e481d1951c";s:11:"FACET_VALUE";s:4:"3717";s:13:"ELEMENT_COUNT";s:1:"3";}i:3054;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_325_1681152960";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_325_1681152960";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_325";s:14:"HTML_VALUE_ALT";i:1681152960;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:10:"ЭЛАЙН";s:4:"SORT";i:500;s:5:"UPPER";s:10:"ЭЛАЙН";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"588a91f9-bcf5-11e9-80c8-f36c590bad59";s:11:"FACET_VALUE";s:4:"3054";s:13:"ELEMENT_COUNT";s:2:"10";}}}i:361;a:12:{s:2:"ID";s:3:"361";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:3:"HIT";s:5:"~NAME";s:31:"Наши предложения";s:4:"NAME";s:31:"Наши предложения";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";N;s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"Y";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:1:{i:3230;a:12:{s:10:"CONTROL_ID";s:31:"NEXT_SMART_FILTER_361_914877489";s:12:"CONTROL_NAME";s:31:"NEXT_SMART_FILTER_361_914877489";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_361";s:14:"HTML_VALUE_ALT";i:914877489;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:14:"Новинка";s:4:"SORT";i:2;s:5:"UPPER";s:14:"НОВИНКА";s:4:"FLAG";b:1;s:6:"URL_ID";s:3:"new";s:11:"FACET_VALUE";s:4:"3230";s:13:"ELEMENT_COUNT";s:1:"2";}}}i:335;a:12:{s:2:"ID";s:3:"335";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:11:"TERMOREZHIM";s:5:"~NAME";s:20:"Терморежим";s:4:"NAME";s:20:"Терморежим";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:0:{}}i:336;a:12:{s:2:"ID";s:3:"336";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:15:"TORGOVAYA_MARKA";s:5:"~NAME";s:27:"Торговая марка";s:4:"NAME";s:27:"Торговая марка";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:10:{i:1753;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_1427509357";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_1427509357";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:1427509357;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:7:"DDStyle";s:4:"SORT";i:4700;s:5:"UPPER";s:7:"DDSTYLE";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"1c95c4ca-e9a4-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"1753";s:13:"ELEMENT_COUNT";s:1:"9";}i:1930;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_2430323547";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_2430323547";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:2430323547;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:6:"Trixie";s:4:"SORT";i:22400;s:5:"UPPER";s:6:"TRIXIE";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"6f29654d-e837-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"1930";s:13:"ELEMENT_COUNT";s:1:"1";}i:1948;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_3510752686";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_3510752686";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:3510752686;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:9:"ZOO PLAST";s:4:"SORT";i:24200;s:5:"UPPER";s:9:"ZOO PLAST";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"29362afe-e90a-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"1948";s:13:"ELEMENT_COUNT";s:1:"8";}i:1950;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_3330370781";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_3330370781";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:3330370781;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:4:"ZooM";s:4:"SORT";i:24400;s:5:"UPPER";s:4:"ZOOM";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"5932f056-ea78-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"1950";s:13:"ELEMENT_COUNT";s:1:"7";}i:1992;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_2218410749";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_2218410749";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:2218410749;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:24:"Альтернатива";s:4:"SORT";i:28600;s:5:"UPPER";s:24:"АЛЬТЕРНАТИВА";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"0ca7ecb2-5edb-11ea-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"1992";s:13:"ELEMENT_COUNT";s:1:"4";}i:2105;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_3610939969";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_3610939969";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:3610939969;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:8:"Вака";s:4:"SORT";i:39900;s:5:"UPPER";s:8:"ВАКА";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"382acf7b-0dea-11ea-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"2105";s:13:"ELEMENT_COUNT";s:1:"2";}i:2275;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_2587736799";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_2587736799";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:2587736799;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:19:"Зверьё Моё";s:4:"SORT";i:56900;s:5:"UPPER";s:19:"ЗВЕРЬЁ МОЁ";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"29374073-c0ec-11ea-80d0-945077d23bcc";s:11:"FACET_VALUE";s:4:"2275";s:13:"ELEMENT_COUNT";s:1:"4";}i:2291;a:12:{s:10:"CONTROL_ID";s:30:"NEXT_SMART_FILTER_336_64181064";s:12:"CONTROL_NAME";s:30:"NEXT_SMART_FILTER_336_64181064";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:64181064;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:12:"Зооник";s:4:"SORT";i:58500;s:5:"UPPER";s:12:"ЗООНИК";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"eb670c44-e83d-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"2291";s:13:"ELEMENT_COUNT";s:1:"1";}i:2293;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_3990696548";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_3990696548";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:3990696548;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:22:"Зооэкспресс";s:4:"SORT";i:58700;s:5:"UPPER";s:22:"ЗООЭКСПРЕСС";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"decfcaa1-e681-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"2293";s:13:"ELEMENT_COUNT";s:2:"13";}i:2990;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_336_2021755967";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_336_2021755967";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_336";s:14:"HTML_VALUE_ALT";i:2021755967;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:10:"Элайн";s:4:"SORT";i:128400;s:5:"UPPER";s:10:"ЭЛАЙН";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"c475ea57-deb2-11e9-80c9-cb4ec39ec3cd";s:11:"FACET_VALUE";s:4:"2990";s:13:"ELEMENT_COUNT";s:2:"10";}}}i:337;a:12:{s:2:"ID";s:3:"337";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:9:"DLYA_KOGO";s:5:"~NAME";s:15:"Для кого";s:4:"NAME";s:15:"Для кого";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:2:{i:3025;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_337_1551039889";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_337_1551039889";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_337";s:14:"HTML_VALUE_ALT";i:1551039889;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:17:"Для кошек";s:4:"SORT";i:100;s:5:"UPPER";s:17:"ДЛЯ КОШЕК";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"769bd869-91c8-11e9-80d0-8bb57185d5a2";s:11:"FACET_VALUE";s:4:"3025";s:13:"ELEMENT_COUNT";s:2:"45";}i:3026;a:12:{s:10:"CONTROL_ID";s:32:"NEXT_SMART_FILTER_337_3313216555";s:12:"CONTROL_NAME";s:32:"NEXT_SMART_FILTER_337_3313216555";s:16:"CONTROL_NAME_ALT";s:21:"NEXT_SMART_FILTER_337";s:14:"HTML_VALUE_ALT";i:3313216555;s:10:"HTML_VALUE";s:1:"Y";s:5:"VALUE";s:17:"Для собак";s:4:"SORT";i:200;s:5:"UPPER";s:17:"ДЛЯ СОБАК";s:4:"FLAG";b:1;s:6:"URL_ID";s:36:"769bd86a-91c8-11e9-80d0-8bb57185d5a2";s:11:"FACET_VALUE";s:4:"3026";s:13:"ELEMENT_COUNT";s:2:"10";}}}i:338;a:12:{s:2:"ID";s:3:"338";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:12:"TIP_RATSIONA";s:5:"~NAME";s:21:"Тип рациона";s:4:"NAME";s:21:"Тип рациона";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:0:{}}i:339;a:12:{s:2:"ID";s:3:"339";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:9:"VID_KORMA";s:5:"~NAME";s:17:"Вид корма";s:4:"NAME";s:17:"Вид корма";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:0:{}}i:340;a:12:{s:2:"ID";s:3:"340";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:13:"FORMA_VYPUSKA";s:5:"~NAME";s:25:"Форма выпуска";s:4:"NAME";s:25:"Форма выпуска";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:0:{}}i:341;a:12:{s:2:"ID";s:3:"341";s:9:"IBLOCK_ID";s:2:"28";s:4:"CODE";s:10:"LITSENZIYA";s:5:"~NAME";s:16:"Лицензия";s:4:"NAME";s:16:"Лицензия";s:13:"PROPERTY_TYPE";s:1:"L";s:9:"USER_TYPE";s:0:"";s:18:"USER_TYPE_SETTINGS";N;s:12:"DISPLAY_TYPE";s:1:"F";s:16:"DISPLAY_EXPANDED";s:1:"N";s:11:"FILTER_HINT";s:0:"";s:6:"VALUES";a:0:{}}s:4:"BASE";a:11:{s:2:"ID";s:1:"1";s:4:"CODE";s:4:"BASE";s:6:"URL_ID";s:4:"base";s:5:"~NAME";s:27:"Розничная цена";s:4:"NAME";s:27:"Розничная цена";s:5:"PRICE";b:1;s:6:"VALUES";a:2:{s:3:"MIN";a:4:{s:10:"CONTROL_ID";s:24:"NEXT_SMART_FILTER_P1_MIN";s:12:"CONTROL_NAME";s:24:"NEXT_SMART_FILTER_P1_MIN";s:5:"VALUE";d:34.5;s:8:"CURRENCY";s:3:"RUB";}s:3:"MAX";a:4:{s:10:"CONTROL_ID";s:24:"NEXT_SMART_FILTER_P1_MAX";s:12:"CONTROL_NAME";s:24:"NEXT_SMART_FILTER_P1_MAX";s:5:"VALUE";d:5700;s:8:"CURRENCY";s:3:"RUB";}}s:10:"ENCODED_ID";s:32:"c4ca4238a0b923820dcc509a6f75849b";s:10:"CURRENCIES";a:1:{s:3:"RUB";s:31:"Российский рубль";}s:11:"~CURRENCIES";a:1:{s:3:"RUB";s:31:"Российский рубль";}s:8:"DECIMALS";s:1:"1";}}s:10:"CURRENCIES";a:1:{s:3:"RUB";s:31:"Российский рубль";}s:13:"SECTION_TITLE";s:14:"Туалеты";s:19:"SECTION_DESCRIPTION";s:386:"<h2>Лотки для кошек и мелких пород собак</h2>
+ <br>
+ Домашние кошки редко бывают на улице. Решить вопрос с туалетом целесообразно до момента заведения питомца. Правильно подобранный кошачий туалет позволит приучить...";s:7:"SECTION";a:14:{s:2:"ID";s:3:"157";s:3:"~ID";s:3:"157";s:9:"IBLOCK_ID";s:2:"28";s:10:"~IBLOCK_ID";s:2:"28";s:11:"LEFT_MARGIN";s:3:"197";s:12:"~LEFT_MARGIN";s:3:"197";s:12:"RIGHT_MARGIN";s:3:"214";s:13:"~RIGHT_MARGIN";s:3:"214";s:4:"NAME";s:14:"Туалеты";s:5:"~NAME";s:14:"Туалеты";s:11:"DESCRIPTION";s:4290:"<h2>Лотки для кошек и мелких пород собак</h2>
+ <br>
+ Домашние кошки редко бывают на улице. Решить вопрос с туалетом целесообразно до момента заведения питомца. Правильно подобранный кошачий туалет позволит приучить котенка к порядку, а также не доставит забот, связанных с появлением неприятного запаха в квартире.<br>
+ <br>
+<p>
+	 Собаки мелких пород также могут ходить в лоток, а значит, их не нужно выгуливать несколько раз в день.
+</p>
+<p>
+	 Покупка туалета для домашнего питомца может быть необходима, если животное плохо себя чувствует и по каким-то причинам временно не может выходить на прогулку. Например, туалет для собак со столбиком позволит воспроизвести условия, максимально приближенные к естественной среде.
+</p>
+<h2>
+Виды лотков для кошек</h2>
+<p>
+	 Производители предлагают различные решения, отличающиеся по функциональности, размеру и стоимости:
+</p>
+<p>
+</p>
+<ol>
+	<li>
+	<p>
+		 Закрытый биотуалет или домик – это отличное решение, чтобы предотвратить разбрасывание наполнителя. Кроме того, создается изолированное пространство, в котором животное чувствует себя уютнее и спокойнее.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Лоток для кошек с высокими бортиками позволит поддерживать чистоту. В процессе закапывания питомец не будет разбрасывать наполнитель.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Лотки с решеткой сохраняют лапы чистыми. Если между дном и решеткой достаточное количество свободного пространства, туда легко можно добавить наполнитель.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Лоток для приучения кошки к унитазу за несколько недель позволяет пересадить кошку практически из любого горшка. Это избавит от необходимости покупать наполнитель, бороться с неприятными запахами и регулярно чистить лоток в дальнейшем.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Угловой кошачий туалет подойдет для установки в ограниченном пространстве.
+	</p>
+ </li>
+</ol>
+<p>
+</p>
+<p>
+	 Системы, позволяющие фиксировать пленку, позволяют поддерживать чистоту в доме, а также бороться с неприятными запахами и распространением бактерий.
+</p>
+<h2>
+Купить лоток для кошек в Новосибирске с доставкой</h2>
+<p>
+	 Купить подходящий лоток и получить соответствующие рекомендации по приучению можно на сайте специализированной компании ЗООСАТ. Цена зависит от выбранного варианта, а также от необходимости покупать дополнительные аксессуары.
+</p>
+<p>
+	 Современные лотки – это удобная и безопасная альтернатива привычным кошачьим туалетам, позволяющая значительно упростить уход за питомцем.
+</p>";s:12:"~DESCRIPTION";s:4290:"<h2>Лотки для кошек и мелких пород собак</h2>
+ <br>
+ Домашние кошки редко бывают на улице. Решить вопрос с туалетом целесообразно до момента заведения питомца. Правильно подобранный кошачий туалет позволит приучить котенка к порядку, а также не доставит забот, связанных с появлением неприятного запаха в квартире.<br>
+ <br>
+<p>
+	 Собаки мелких пород также могут ходить в лоток, а значит, их не нужно выгуливать несколько раз в день.
+</p>
+<p>
+	 Покупка туалета для домашнего питомца может быть необходима, если животное плохо себя чувствует и по каким-то причинам временно не может выходить на прогулку. Например, туалет для собак со столбиком позволит воспроизвести условия, максимально приближенные к естественной среде.
+</p>
+<h2>
+Виды лотков для кошек</h2>
+<p>
+	 Производители предлагают различные решения, отличающиеся по функциональности, размеру и стоимости:
+</p>
+<p>
+</p>
+<ol>
+	<li>
+	<p>
+		 Закрытый биотуалет или домик – это отличное решение, чтобы предотвратить разбрасывание наполнителя. Кроме того, создается изолированное пространство, в котором животное чувствует себя уютнее и спокойнее.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Лоток для кошек с высокими бортиками позволит поддерживать чистоту. В процессе закапывания питомец не будет разбрасывать наполнитель.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Лотки с решеткой сохраняют лапы чистыми. Если между дном и решеткой достаточное количество свободного пространства, туда легко можно добавить наполнитель.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Лоток для приучения кошки к унитазу за несколько недель позволяет пересадить кошку практически из любого горшка. Это избавит от необходимости покупать наполнитель, бороться с неприятными запахами и регулярно чистить лоток в дальнейшем.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Угловой кошачий туалет подойдет для установки в ограниченном пространстве.
+	</p>
+ </li>
+</ol>
+<p>
+</p>
+<p>
+	 Системы, позволяющие фиксировать пленку, позволяют поддерживать чистоту в доме, а также бороться с неприятными запахами и распространением бактерий.
+</p>
+<h2>
+Купить лоток для кошек в Новосибирске с доставкой</h2>
+<p>
+	 Купить подходящий лоток и получить соответствующие рекомендации по приучению можно на сайте специализированной компании ЗООСАТ. Цена зависит от выбранного варианта, а также от необходимости покупать дополнительные аксессуары.
+</p>
+<p>
+	 Современные лотки – это удобная и безопасная альтернатива привычным кошачьим туалетам, позволяющая значительно упростить уход за питомцем.
+</p>";s:16:"DESCRIPTION_TYPE";s:4:"html";s:17:"~DESCRIPTION_TYPE";s:4:"html";}}s:18:"templateCachedData";a:0:{}}}';
+return true;
+?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680826809';
+$dateexpire = '001680830409';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:70918;a:16:{s:2:"ID";s:5:"70918";s:11:"TIMESTAMP_X";s:19:"22.11.2021 09:37:13";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"300";s:5:"WIDTH";s:4:"1900";s:9:"FILE_SIZE";s:6:"229338";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/f0c";s:9:"FILE_NAME";s:36:"2py2u8fd768ruul4xjuvzrbr0lfw6itg.jpg";s:13:"ORIGINAL_NAME";s:23:"chetveronog ins (1).jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"6883df6be1af96a084e3fff926f1ce20";s:19:"VERSION_ORIGINAL_ID";s:0:"";s:4:"META";s:0:"";s:3:"SRC";s:55:"/upload/iblock/f0c/2py2u8fd768ruul4xjuvzrbr0lfw6itg.jpg";}i:70919;a:16:{s:2:"ID";s:5:"70919";s:11:"TIMESTAMP_X";s:19:"22.11.2021 09:37:13";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"320";s:5:"WIDTH";s:3:"800";s:9:"FILE_SIZE";s:6:"209061";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/ff4";s:9:"FILE_NAME";s:36:"pdgzz4wipf08t1u0krd3hn17bj9f2gav.jpg";s:13:"ORIGINAL_NAME";s:22:"chetveronog razdel.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:11:"EXTERNAL_ID";s:32:"f49cbcf295200562eb28589d3deff619";s:19:"VERSION_ORIGINAL_ID";s:0:"";s:4:"META";s:0:"";s:3:"SRC";s:55:"/upload/iblock/ff4/pdgzz4wipf08t1u0krd3hn17bj9f2gav.jpg";}}}';
+return true;
+?>

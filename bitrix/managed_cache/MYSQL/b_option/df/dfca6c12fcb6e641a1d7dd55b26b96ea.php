@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001679904330';
+$dateexpire = '001679907930';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:1:"-";a:18:{s:21:"ADD_TO_VK_PACK_LENGTH";s:2:"25";s:12:"ANTIGATE_KEY";s:0:"";s:6:"APP_ID";s:7:"8106919";s:10:"APP_SECRET";s:20:"mwAuuBxblQDWVJQkGzod";s:16:"CONNECT_INTERVAL";s:3:"500";s:5:"DEBUG";s:1:"8";s:24:"DESCRIPTION_LENGTH_LIMIT";s:4:"5000";s:22:"DISABLE_UPDATE_PICTURE";s:1:"N";s:12:"ENABLE_PROXY";s:1:"N";s:19:"GROUP_DEFAULT_RIGHT";s:1:"W";s:10:"PROXY_HOST";s:0:"";s:11:"PROXY_LOGIN";s:0:"";s:10:"PROXY_PASS";s:0:"";s:10:"PROXY_PORT";s:0:"";s:18:"TIME_TO_START_EXEC";s:5:"09:35";s:7:"TIMEOUT";s:2:"45";s:9:"URL_HTTPS";s:1:"Y";s:7:"URL_UTM";s:0:"";}s:2:"s1";a:19:{s:11:"DELIVERY_ID";s:0:"";s:10:"PAYMENT_ID";s:0:"";s:13:"PERSONAL_TYPE";s:0:"";s:21:"SALE_PROPERTY_ADDRESS";s:0:"";s:30:"SALE_PROPERTY_COMMENT_FOR_USER";s:0:"";s:17:"SALE_PROPERTY_FIO";s:0:"";s:20:"SALE_PROPERTY_HEIGHT";s:0:"";s:20:"SALE_PROPERTY_LENGTH";s:0:"";s:19:"SALE_PROPERTY_PHONE";s:0:"";s:21:"SALE_PROPERTY_VKORDER";s:0:"";s:20:"SALE_PROPERTY_WEIGHT";s:0:"";s:19:"SALE_PROPERTY_WIDTH";s:0:"";s:8:"STATUS_0";s:0:"";s:8:"STATUS_1";s:0:"";s:8:"STATUS_2";s:0:"";s:8:"STATUS_3";s:0:"";s:8:"STATUS_4";s:0:"";s:8:"STATUS_5";s:0:"";s:8:"STATUS_6";s:0:"";}}}';
+return true;
+?>

@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_next/components/bitrix/catalog/main_zoosat/style.css" => "16176005749583",]; ?>

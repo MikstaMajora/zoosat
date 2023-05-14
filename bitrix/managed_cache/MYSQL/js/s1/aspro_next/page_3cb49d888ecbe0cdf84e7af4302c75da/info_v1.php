@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/aspro_next/components/bitrix/map.yandex.view/.default/script.js" => "16176005731540",]; ?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001680922757';
+$dateexpire = '001716922757';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:5:"arRes";a:9:{s:2:"ID";s:5:"26958";s:9:"IBLOCK_ID";s:2:"28";s:17:"IBLOCK_SECTION_ID";s:3:"478";s:4:"NAME";s:151:"Туалет-домик для кошек закрытый с дверцей (50 * 38 * h37 см), бирюзовый низ/серый верх. ZooM.";s:12:"PREVIEW_TEXT";N;s:15:"PREVIEW_PICTURE";s:5:"84311";s:14:"DETAIL_PICTURE";N;s:17:"PREVIEW_TEXT_TYPE";s:4:"text";s:26:"IBLOCK_SECTION_ID_SELECTED";s:3:"478";}}}';
+return true;
+?>

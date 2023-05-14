@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"/", 
+		Array(), 
+		Array("ONLY_MOBILE"=>"Y"), 
+		"" 
+	),
+	Array(
+		"Каталог", 
+		"/catalogzoo/", 
+		Array(), 
+		Array("NOT_VISIBLE"=>"Y", "CLASS"=>"catalog wide_menu"), 
+		"" 
+	),
+	Array(
+		"Акции", 
+		"/sales/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Распродажа", 
+		"/catalogzoo/rasprodazha_utsenyennye_tovary/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		"/articles/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Как купить", 
+		"/help/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Производители", 
+		"/manufacturers/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		"/company/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
